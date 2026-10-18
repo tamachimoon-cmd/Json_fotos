@@ -1,0 +1,36 @@
+{
+  "filename": "IMG_20261018_100727_159.jpg",
+  "original_filename": "IMG_20261018_100727_159.jpg",
+  "renamed_to": "selfie-regata-vinho-cadeira-vermelha.jpg",
+  "drive_file_id": "1phzGx_uz4A0lzem_Z00sVHrTNt8XBwvm",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-18T13:55:00Z",
+  "image_size": "1080x1440",
+  "description": {
+    "subject": "Young woman, around early 20s, fair skin with light natural freckles on chest and shoulders, very long straight-to-slightly-wavy dark brown hair with center part falling over her right shoulder and down to the waist, brown eyes, soft natural makeup with nude-pink lips",
+    "pose": "Seated selfie-style shot from slightly above, body angled to the left, head tilted slightly, chin down, direct gaze into camera with a subtle closed-mouth smile, right arm extended toward camera (out of frame)",
+    "clothing": {
+      "top": "Fitted deep burgundy / wine-red tank top with thin spaghetti straps and a straight square-ish neckline",
+      "bottom": "Not visible",
+      "footwear": "Not visible",
+      "accessories": "None visible"
+    },
+    "setting": "Sitting on a glossy red plastic chair against a weathered wall of vertical off-white/light grey wooden planks with peeling paint and rusty-brown stains",
+    "lighting": "Soft natural daylight, even and diffused, no harsh shadows, warm skin tones",
+    "composition": "Vertical close-up / medium close-up from head to waist, high camera angle, subject slightly right of center, red chair back visible on lower left and lower right edges",
+    "style": "Casual smartphone selfie, natural and candid, photorealistic, Pinterest/Instagram aesthetic",
+    "colors": "Burgundy red, bright red, off-white, warm brown",
+    "mood": "Sweet, relaxed, natural, intimate"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair skin and light freckles, very long dark brown hair with center part draped over one shoulder, brown eyes, nude-pink lips, subtle closed-mouth smile",
+    "clothing": "fitted burgundy wine-red spaghetti strap tank top",
+    "pose": "seated selfie taken from slightly above, head slightly tilted, looking directly at camera, one arm extended toward camera",
+    "environment": "glossy red plastic chair, weathered off-white vertical wooden plank wall with peeling paint and rust stains",
+    "lighting": "soft natural diffused daylight",
+    "camera": "smartphone front camera, high angle, close-up from head to waist",
+    "style": "photorealistic casual selfie, natural skin texture, sharp details",
+    "negative_prompt": "harsh shadows, heavy makeup, extra fingers, distorted face, blurry, cartoon, oversaturated",
+    "aspect_ratio": "3:4"
+  }
+}
