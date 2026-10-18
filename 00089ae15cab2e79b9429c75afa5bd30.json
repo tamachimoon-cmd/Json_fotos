@@ -1,0 +1,27 @@
+{
+  "filename": "00089ae15cab2e79b9429c75afa5bd30.jpg",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-18T13:50:00Z",
+  "description": {
+    "subject": "Young East Asian woman, early 20s, slim build, long wavy dark brown hair with center part, fair skin, subtle makeup",
+    "pose": "Standing leaning against a metal pole on a city sidewalk, right hand adjusting black sunglasses, left hand in jeans pocket, body angled slightly toward camera, direct gaze",
+    "clothing": {
+      "top": "Oversized black off-shoulder graphic t-shirt with white/silver print of a face or figure, thin black spaghetti strap visible underneath",
+      "bottom": "Baggy black ripped jeans with large distressed holes at knees, black belt with silver buckle, long silver chain hanging from belt loop down the leg, black fabric strip dangling",
+      "footwear": "Black and white platform sneakers with thick white soles",
+      "accessories": "Black rectangular sunglasses, silver hoop earrings, thin silver bracelet on left wrist"
+    },
+    "setting": "Urban street corner during daytime, modern multi-story building with large windows and beige facade, traffic light showing green, street signs, crosswalk, sidewalk",
+    "lighting": "Natural daylight, soft even illumination, slight overcast or shaded urban light",
+    "composition": "Full body vertical shot, subject centered slightly left, pole on left side of frame, street and buildings in background",
+    "style": "Realistic street fashion photography, casual urban look, high detail, photorealistic",
+    "mood": "Confident, stylish, cool street aesthetic"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with long wavy dark brown hair, wearing black oversized off-shoulder graphic t-shirt, baggy ripped black jeans with chain, black and white platform sneakers, black sunglasses",
+    "pose": "leaning against metal pole on sidewalk, one hand adjusting sunglasses, other hand in pocket, looking at camera",
+    "environment": "modern city street with buildings, traffic light, crosswalk, daytime",
+    "style": "photorealistic street fashion photography, natural lighting, sharp details",
+    "aspect_ratio": "9:16"
+  }
+}
