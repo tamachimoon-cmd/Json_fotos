@@ -1,0 +1,37 @@
+{
+  "filename": "8aab324c6961cfa8bfaf4460cce0c9eb.jpg",
+  "original_filename": "8aab324c6961cfa8bfaf4460cce0c9eb.jpg",
+  "suggested_name": "biquini-estampa-limao-cafe-terraco.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1qYFkpi-NlGE3grmI22qzeBkTs9a_Gk-G",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-19T11:10:00Z",
+  "image_size": "736x1063",
+  "description": {
+    "subject": "Young woman, around early 20s, fair lightly sun-kissed skin with faint freckles, shoulder-length to chest-length wavy dark brown hair with natural volume falling forward over both shoulders, thick dark eyebrows, minimal natural makeup",
+    "pose": "Leaning forward over a small table with both straight arms braced on the tabletop, torso bent toward camera, head turned to her left in three-quarter profile, gaze directed off-camera, lips slightly parted as if speaking or laughing",
+    "clothing": {
+      "top": "Off-white / cream triangle bikini top with a small yellow lemon and green leaf print, thin straps",
+      "bottom": "Matching off-white bikini bottom with the same yellow lemon print",
+      "footwear": "Not visible",
+      "accessories": "None visible"
+    },
+    "setting": "Outdoor terrace on a sunny day, ornate white wrought-iron scrollwork chair back / railing behind her, rough grey stone wall, green foliage and shrubs in the background; in the foreground a table with a colorful patterned ceramic tile top (red and yellow floral motifs), a white espresso cup with coffee on a saucer, a folded paper menu or card at lower left, and a white mug with a blue rim at lower right edge",
+    "lighting": "Bright natural sunlight from the upper right, warm golden tones, soft highlights on skin and hair, dappled shade in the background",
+    "composition": "Vertical medium shot from mid-thigh to head, subject centered and slightly left, camera at roughly eye-to-chest level facing her across the table, table edge and cups cropping the bottom of the frame",
+    "style": "Candid lifestyle / editorial summer photography with a film-like analog look, slight grain, photorealistic, Mediterranean vacation aesthetic",
+    "colors": "Cream, lemon yellow, warm skin tones, white, grey stone, deep green, touches of red and blue",
+    "mood": "Relaxed, sunny, carefree, playful summer holiday vibe"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair sun-kissed skin and faint freckles, wavy shoulder-length dark brown hair, thick dark eyebrows, natural makeup, lips slightly parted, looking off to the side",
+    "clothing": "cream triangle bikini top and matching bikini bottom with small yellow lemon and green leaf print",
+    "pose": "leaning forward with both arms braced on a small table, head turned in three-quarter profile, gazing off-camera",
+    "environment": "sunny outdoor Mediterranean terrace, ornate white wrought-iron scrollwork chair and railing, grey stone wall, green shrubs; colorful hand-painted ceramic tile table with a white espresso cup on a saucer, a folded paper menu and a white mug with blue rim",
+    "lighting": "bright warm natural sunlight from upper right, golden hour feel, soft highlights",
+    "camera": "35mm film camera, eye-level medium shot from mid-thigh up, shallow depth of field, subtle film grain",
+    "style": "photorealistic candid summer lifestyle editorial, analog film aesthetic, natural skin texture, sharp details",
+    "negative_prompt": "harsh flash, heavy makeup, extra fingers, distorted hands, distorted face, blurry, cartoon, oversaturated, plastic skin, text, watermark",
+    "aspect_ratio": "3:4"
+  }
+}
