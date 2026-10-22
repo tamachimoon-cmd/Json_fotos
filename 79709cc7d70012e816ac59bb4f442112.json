@@ -1,0 +1,37 @@
+{
+  "filename": "79709cc7d70012e816ac59bb4f442112.jpg",
+  "original_filename": "79709cc7d70012e816ac59bb4f442112.jpg",
+  "suggested_name": "top-preto-calca-preta-estudio-filme.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1o9FNKNS4ktI9O3HWx7oKRhhm1reEOvK1",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-22T04:15:00Z",
+  "image_size": "735x919",
+  "description": {
+    "subject": "Young woman, early 20s, fair skin, long wavy light-brown hair with loose strands, blue-grey eyes, natural minimal makeup, soft slight smile",
+    "pose": "Sitting on the edge of a cloth-draped surface, leaning forward with both hands gripping the edge in front of her between her knees, shoulders raised, head tilted slightly, looking directly at the camera",
+    "clothing": {
+      "top": "Black plunging bralette / triangle bra top with thin straps",
+      "bottom": "High-waisted loose black wide-leg trousers",
+      "footwear": "Not visible",
+      "accessories": "Thin ring on a finger of the right hand, thin bracelet on the left wrist"
+    },
+    "setting": "Minimal indoor studio: plain warm off-white wall, a dark wooden frame or doorway/mirror on the left with a black softbox partially visible, a white wrinkled sheet draped over a rounded seat, beige fabric backdrop curving at the right edge",
+    "lighting": "Soft natural window-like light from the front-left, gentle shadows on the right, warm muted tones",
+    "composition": "Vertical medium-full shot from knees to above the head, subject centered-right, camera at slightly above seated eye level, generous negative space on the wall above",
+    "style": "Analog 35mm film portrait, soft grain, natural skin texture, intimate minimalist editorial",
+    "colors": "Black, warm cream, off-white, beige, dark brown wood, soft skin tones",
+    "mood": "Calm, intimate, natural, quietly confident"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair skin, long wavy light-brown hair, blue-grey eyes, natural makeup, soft slight smile, looking at camera",
+    "clothing": "black plunging bralette top with thin straps, high-waisted loose black wide-leg trousers, thin ring and bracelet",
+    "pose": "sitting on the edge of a white-draped seat, leaning forward, both hands gripping the edge between her knees, shoulders raised",
+    "environment": "minimal photo studio, warm off-white wall, dark wooden frame on the left with a partially visible black softbox, white wrinkled sheet, beige fabric backdrop",
+    "lighting": "soft natural diffused light from front-left, gentle shadows, warm muted tones",
+    "camera": "35mm film camera, medium-full shot, slightly above eye level, subtle film grain",
+    "style": "photorealistic analog film portrait, minimalist intimate editorial, natural skin texture",
+    "negative_prompt": "harsh flash, heavy makeup, extra fingers, distorted hands, distorted face, blurry, cartoon, oversaturated, plastic skin, text, watermark",
+    "aspect_ratio": "4:5"
+  }
+}
