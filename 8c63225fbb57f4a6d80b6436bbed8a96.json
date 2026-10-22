@@ -1,0 +1,37 @@
+{
+  "filename": "8c63225fbb57f4a6d80b6436bbed8a96.jpg",
+  "original_filename": "8c63225fbb57f4a6d80b6436bbed8a96.jpg",
+  "suggested_name": "regata-branca-jeans-rasgado-estudio.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1Jek2YFvjgTkWHHfdl9_xLEvBOQKcIYif",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-22T11:15:00Z",
+  "image_size": "735x919",
+  "description": {
+    "subject": "Young woman, around early-to-mid 20s, East Asian features, fair smooth skin, very long straight-to-softly-layered dark brown hair with wispy curtain bangs falling over her forehead and shoulders, defined eyebrows, soft natural makeup with rosy lips",
+    "pose": "Seated on the floor with knees bent and legs crossed loosely in front of her, torso turned slightly to her left, right elbow resting on her raised right knee, right hand raised to her face with fingertips lightly touching her lips and cheek, head tilted slightly, direct sultry gaze into the camera, lips slightly parted",
+    "clothing": {
+      "top": "White ribbed cropped tank top with a scoop neckline and wide shoulder straps, showing a strip of midriff",
+      "bottom": "Light-wash blue wide-leg baggy jeans with heavy distressing and rips at both knees, frayed threads visible",
+      "footwear": "White leather low-top lace-up sneakers",
+      "accessories": "None visible"
+    },
+    "setting": "Minimal studio with a plain light grey seamless wall and floor; sunlight casts geometric window-pane shadows on the wall at the left side of the frame",
+    "lighting": "Soft bright daylight-style key light from the upper right, gentle shadows, hard-edged window-shaped light and shadow pattern on the background wall, cool neutral tones",
+    "composition": "Vertical full-body-ish shot from head to feet with legs cropped at the bottom and left edges, subject centered slightly right, camera at roughly seated eye level, ample negative space on the grey wall at left",
+    "style": "Photorealistic fashion / casual lifestyle studio portrait, clean editorial look with possible AI-generated polish, high detail on denim texture and hair",
+    "colors": "Light grey, white, light denim blue, dark brown hair, soft pink skin and lip tones",
+    "mood": "Relaxed, confident, casual-chic, subtly seductive"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman, fair smooth skin, very long dark brown hair with wispy curtain bangs, soft natural makeup, rosy slightly parted lips, direct sultry gaze at camera",
+    "clothing": "white ribbed cropped scoop-neck tank top, light-wash blue wide-leg baggy jeans with ripped distressed knees and frayed threads, white leather low-top sneakers",
+    "pose": "sitting on the floor with knees bent and legs loosely crossed, right elbow resting on raised right knee, fingertips of right hand touching lips and cheek, head slightly tilted",
+    "environment": "minimal light grey studio with seamless wall and floor, window-pane shaped sunlight shadows on the wall behind her",
+    "lighting": "soft bright daylight from upper right, crisp window shadow pattern on background, cool neutral tones",
+    "camera": "50mm lens, eye-level seated full-body shot slightly cropped at the feet, sharp focus on face, high resolution",
+    "style": "photorealistic casual-chic fashion editorial, clean minimal studio aesthetic, natural skin texture, detailed denim texture",
+    "negative_prompt": "extra fingers, distorted hands, distorted face, deformed legs, blurry, cartoon, anime, oversaturated, plastic skin, heavy makeup, cluttered background, text, watermark, logo",
+    "aspect_ratio": "4:5"
+  }
+}
