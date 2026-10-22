@@ -1,0 +1,37 @@
+{
+  "filename": "Screenshot_20261003-010040.jpg",
+  "original_filename": "Screenshot_20261003-010040.jpg",
+  "suggested_name": "gotica-saia-xadrez-rosa-parede-concreto.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1DxOTctzxp2uelHtJnPnta-6Ui9w2kTTE",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-22T04:15:00Z",
+  "image_size": "1080x2436",
+  "description": {
+    "subject": "Young woman with pale skin, long straight black hair with blunt bangs and purple/magenta streaks, dramatic gothic makeup with heavy black winged eyeliner, smoky eyes and dark plum lipstick; image is a phone screenshot of a gallery viewer (black bars top and bottom, close button top-left, '1 / 4' counter bottom-right)",
+    "pose": "Standing facing camera, body slightly angled, left hand resting on her thigh against the skirt, right arm hanging relaxed at her side, direct serious gaze into the lens",
+    "clothing": {
+      "top": "Black long-sleeve fitted cropped top with scoop neckline, lettuce-edge hem, white script text 'butterfly' and a white butterfly graphic on the chest",
+      "bottom": "High-waisted pink and black plaid tiered mini skirt with black lace trim on the ruffles, black studded belt details and vertical black straps",
+      "footwear": "Not visible; black fishnet thigh-high stockings with a black band visible on one leg",
+      "accessories": "Black lace choker, layered silver chain necklaces with small pendants, ear piercings, gold wristwatch on left wrist, bracelet on right wrist, dark nail polish"
+    },
+    "setting": "Weathered grey concrete wall with peeling, stained, mottled texture, slightly darker corner on the right",
+    "lighting": "Soft diffused even light from the front, muted, low contrast, slight shadow behind the subject",
+    "composition": "Vertical three-quarter shot from mid-thigh to above the head, subject centered, eye-level camera; the photo occupies the middle of a tall screenshot with black bars",
+    "style": "Polished, likely AI-generated or heavily retouched fashion photo, gothic / e-girl / alt-fashion aesthetic, photorealistic",
+    "colors": "Black, pink and magenta plaid, purple hair streaks, grey concrete, pale skin, silver accents",
+    "mood": "Moody, edgy, confident, dark alternative fashion"
+  },
+  "prompt_json": {
+    "subject": "young woman with pale skin, long straight black hair with blunt bangs and purple streaks, dramatic gothic makeup, black winged eyeliner, dark plum lips, serious direct gaze",
+    "clothing": "black long-sleeve cropped fitted top with white 'butterfly' script and butterfly graphic, high-waisted pink and black plaid tiered mini skirt with black lace trim and studded belt, black fishnet thigh-high stockings, black lace choker, layered silver chain necklaces, gold wristwatch, dark nails",
+    "pose": "standing facing camera, one hand resting on the thigh, other arm relaxed, looking into the lens",
+    "environment": "weathered grey concrete wall with peeling stained texture",
+    "lighting": "soft diffused frontal light, muted low contrast",
+    "camera": "eye-level three-quarter shot from mid-thigh up, 50mm lens, sharp focus on subject",
+    "style": "photorealistic gothic alt-fashion editorial, e-girl aesthetic, detailed fabric textures",
+    "negative_prompt": "phone UI, black bars, gallery buttons, page counter, extra fingers, distorted hands, distorted face, blurry, cartoon, oversaturated, plastic skin, watermark",
+    "aspect_ratio": "9:16"
+  }
+}
