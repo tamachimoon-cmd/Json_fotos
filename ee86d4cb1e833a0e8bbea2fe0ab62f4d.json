@@ -1,0 +1,37 @@
+{
+  "filename": "ee86d4cb1e833a0e8bbea2fe0ab62f4d.jpg",
+  "original_filename": "ee86d4cb1e833a0e8bbea2fe0ab62f4d.jpg",
+  "suggested_name": "fones-pescoco-cropped-cinza-revistas.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1VGnyK57NBpEbKQeWCQxeD9aEmNam1M7D",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-23T11:10:00Z",
+  "image_size": "735x1105",
+  "description": {
+    "subject": "Young woman, around early-to-mid 20s, light tan / olive skin, very long voluminous tousled dark brown hair with lighter brown tones, strands falling across one eye and face, defined dark eyebrows, brown eyes, natural makeup with mauve-pink lips, small silver hoop earring",
+    "pose": "Seated low, crouched or sitting with knees up in the lower foreground, arms crossed over her chest with the left hand gripping her right upper arm and the right hand tucked near her left arm, head tilted slightly to her right, lips slightly parted, intense direct gaze into the camera",
+    "clothing": {
+      "top": "Charcoal grey cropped tank top with thin straps, showing a sliver of midriff",
+      "bottom": "Black shorts or bottoms, only partially visible at the bottom of the frame",
+      "footwear": "Not visible",
+      "accessories": "Black over-ear wireless headphones resting around her neck, thin silver bangle bracelet on the left wrist, thin black hair-tie bracelet on the right wrist, small silver hoop earring"
+    },
+    "setting": "Indoor room with a plain off-white wall covered in pinned black-and-white and color posters/prints in the upper background, wooden floor scattered with loose magazine pages and printed photos of faces around her",
+    "lighting": "Direct on-camera flash style light from the front, bright highlights on skin, crisp shadow cast on the wall behind her right side, slightly warm tones",
+    "composition": "Vertical close-to-mid shot from the top of the head to the knees, subject centered and filling most of the frame, camera slightly above eye level angled down, posters cropped at the top edge, magazines cropped at the bottom corners",
+    "style": "Photorealistic casual flash-photography lifestyle portrait, music / editorial aesthetic with a candid snapshot feel, possible AI-generated polish, high detail on hair texture",
+    "colors": "Off-white wall, charcoal grey, black, warm wood brown, dark brown hair, warm tan skin tones, small accents of red and muted colors from the posters and magazines",
+    "mood": "Moody, confident, effortlessly cool, slightly seductive"
+  },
+  "prompt_json": {
+    "subject": "young woman with light tan olive skin, very long voluminous tousled dark brown hair falling across one eye, defined dark eyebrows, brown eyes, natural makeup, mauve-pink slightly parted lips, intense direct gaze at camera",
+    "clothing": "charcoal grey thin-strap cropped tank top, black shorts, black over-ear wireless headphones around her neck, thin silver bangle on left wrist, black hair-tie bracelet on right wrist, small silver hoop earring",
+    "pose": "sitting low with knees raised in the foreground, arms crossed over her chest hugging herself, head tilted slightly, looking straight into the lens",
+    "environment": "room with off-white wall covered in pinned black-and-white and color posters, wooden floor scattered with magazine pages and printed portrait photos",
+    "lighting": "direct front on-camera flash, bright skin highlights, crisp shadow on the wall behind, slightly warm tones",
+    "camera": "35mm lens, slightly high angle, vertical medium close-up from head to knees, sharp focus on face and eyes, high resolution",
+    "style": "photorealistic candid flash-photography lifestyle portrait, music editorial aesthetic, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry, cartoon, anime, oversaturated, plastic skin, heavy makeup, clean empty background, text, watermark, logo",
+    "aspect_ratio": "2:3"
+  }
+}
