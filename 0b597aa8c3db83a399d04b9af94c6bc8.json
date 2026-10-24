@@ -1,0 +1,37 @@
+{
+  "filename": "0b597aa8c3db83a399d04b9af94c6bc8.jpg",
+  "original_filename": "0b597aa8c3db83a399d04b9af94c6bc8.jpg",
+  "suggested_name": "cabelo-rosa-sutia-preto-terraco-urbano.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1wv6iwr4kmSJ8UiINyRp4YEcpsPoQQF71",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-24T11:15:00Z",
+  "image_size": "500x750",
+  "description": {
+    "subject": "Young woman, around early 20s, fair lightly tanned skin with faint freckles, very long wavy pastel pink / dusty rose hair with flyaway strands blown by the wind, a lock falling across her right eye, light brown eyebrows, hazel-brown eyes, natural makeup with soft pink lips slightly parted showing her teeth",
+    "pose": "Upper body facing the camera, shoulders slightly turned, head tilted down a little and to the side, hair swept over one side of the face, direct sultry gaze into the lens",
+    "clothing": {
+      "top": "Black lace / mesh-textured bra with thin straps, scalloped edge and a small white satin bow at the center",
+      "bottom": "Not visible",
+      "footwear": "Not visible",
+      "accessories": "None visible"
+    },
+    "setting": "Outdoor rooftop or balcony in a city, with blurred light-colored buildings and windows in the background and a hazy bright sky",
+    "lighting": "Bright natural sunlight from behind and above, strong backlight creating a glowing halo on the hair, warm golden haze, soft light on the face",
+    "composition": "Vertical close-up from the top of the head to just below the bust, subject slightly left of center filling most of the frame, eye-level camera, shallow depth of field with a heavily blurred background",
+    "style": "Photorealistic sun-washed lifestyle / boudoir portrait, vintage film-like Tumblr aesthetic with faded warm tones and slight overexposure",
+    "colors": "Pastel pink hair, warm peach skin tones, black bra, white bow accent, creamy beige and pale grey blurred buildings, faded warm highlights",
+    "mood": "Dreamy, sensual, warm, carefree summer feel"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair lightly tanned freckled skin, very long wavy pastel pink hair blowing in the wind with flyaway strands, a lock of hair across one eye, hazel-brown eyes, natural makeup, soft pink slightly parted lips, direct sultry gaze at camera",
+    "clothing": "black lace mesh bra with thin straps and a small white satin bow at the center",
+    "pose": "upper body facing camera, head tilted slightly down and to the side, hair swept over one side of the face",
+    "environment": "sunny city rooftop or balcony, blurred light-colored buildings with windows in the background, hazy bright sky",
+    "lighting": "strong warm backlight sunlight, glowing rim light halo on the hair, soft golden haze, slightly overexposed highlights",
+    "camera": "50mm lens, eye level, vertical close-up from head to below the bust, shallow depth of field, sharp focus on the eyes, high resolution",
+    "style": "photorealistic sun-washed lifestyle portrait, vintage film photography look, faded warm tones, Tumblr aesthetic, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry face, cartoon, anime, oversaturated, plastic skin, heavy makeup, harsh studio lighting, sharp detailed background, text, watermark, logo, nudity",
+    "aspect_ratio": "2:3"
+  }
+}
