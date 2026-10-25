@@ -1,0 +1,37 @@
+{
+  "filename": "72d57d90bc2193a797a27582262dbadf.jpg",
+  "original_filename": "72d57d90bc2193a797a27582262dbadf.jpg",
+  "suggested_name": "streetwear-camiseta-rebel-soul-jeans-grafite.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1bUVXLH5QInTiE18mTf1NNj0q9a7ZHdb0",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-25T11:10:00Z",
+  "image_size": "736x1308",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, very long straight black hair falling past the shoulders with a few strands in front, dark eyes, natural makeup with soft rosy lips, neutral confident expression",
+    "pose": "Standing full body facing camera with a slight lean, weight on one leg, right hand resting loosely at her side, left hand tucked into the front jeans pocket, looking directly at the camera",
+    "clothing": {
+      "top": "Oversized black short-sleeve crew-neck t-shirt with green bold text reading 'REBEL SOUL' (printed mirrored in the image) across the chest, hem partly tucked at one side",
+      "bottom": "Light-wash baggy straight-leg blue jeans with ripped knees showing frayed white threads, large green graffiti-style lettering painted on the lower legs",
+      "footwear": "Black and white high-top sneakers with a swoosh-style side logo",
+      "accessories": "Layered silver chain necklaces with a small cross pendant, chunky silver chain bracelet on the left wrist, silver wallet chain hanging from the jeans pocket"
+    },
+    "setting": "Minimal studio with a plain light grey / off-white wall and a smooth grey floor, no props",
+    "lighting": "Strong directional key light from the front right casting a large sharp shadow of the subject on the wall to her left, otherwise even soft studio light",
+    "composition": "Vertical full-body shot from head to sneakers, subject slightly right of center, camera at roughly waist height, large negative space with the cast shadow on the left side; small sparkle watermark at the bottom right corner",
+    "style": "Clean streetwear fashion lookbook / e-commerce photography, photorealistic, crisp detail",
+    "colors": "Black, kelly green accents, light denim blue, silver, white and grey neutrals",
+    "mood": "Cool, confident, urban, edgy streetwear attitude"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, very long straight black hair, natural makeup, rosy lips, neutral confident expression, looking at camera",
+    "clothing": "oversized black t-shirt with green 'REBEL SOUL' chest print, light-wash baggy ripped jeans with green graffiti lettering on the lower legs, black and white high-top sneakers, layered silver chain necklaces with cross pendant, chunky silver bracelet, silver wallet chain",
+    "pose": "standing full body with a relaxed lean, left hand in front jeans pocket, right arm relaxed at side",
+    "environment": "minimal studio, plain light grey wall, smooth grey floor",
+    "lighting": "hard directional key light from front right casting a sharp shadow on the wall behind, soft fill",
+    "camera": "full-body vertical shot, waist-height camera, 50mm lens, sharp focus, high resolution",
+    "style": "photorealistic streetwear fashion lookbook photography, clean e-commerce aesthetic, natural skin texture",
+    "negative_prompt": "blurry, distorted hands, extra fingers, distorted face, cartoon, oversaturated, plastic skin, misspelled text, cluttered background, watermark",
+    "aspect_ratio": "9:16"
+  }
+}
