@@ -1,0 +1,37 @@
+{
+  "filename": "e57b6fc153c4eee35e7ecba094157d70.jpg",
+  "original_filename": "e57b6fc153c4eee35e7ecba094157d70.jpg",
+  "suggested_name": "sueter-preto-ombro-de-fora-cama-luz-janela.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "13x30Sm-r4N8-oOy5OYzP-4P3jbRB0b9t",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-26T11:10:00Z",
+  "image_size": "736x736",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, long tousled dark brown hair with soft waves falling over one shoulder, dark eyes, natural makeup with soft nude-rose lips, calm serious expression",
+    "pose": "Sitting on a bed facing the camera at a slight angle, one knee raised and bent upward, the other leg folded and resting on the bed, arms relaxed down at the sides, head slightly tilted, gazing directly at the camera",
+    "clothing": {
+      "top": "Oversized black chunky-knit sweater worn off one shoulder, baring the left shoulder and collarbone, long loose sleeves",
+      "bottom": "No visible bottoms; the long sweater hem covers the hips, legs bare",
+      "footwear": "None visible (barefoot)",
+      "accessories": "None visible"
+    },
+    "setting": "Bedroom with a bed covered in rumpled white sheets, a large white-framed window with frosted / bright glass behind her on the left, pale grey walls, a dark wooden nightstand partly visible on the right",
+    "lighting": "Soft natural daylight coming from the window on the left, diffused and low contrast, gentle shadows on the right side of the face and legs",
+    "composition": "Square frame, subject centered from head to mid-calf, camera at about eye level with the seated subject, window filling the upper left, shallow depth of field softening the background",
+    "style": "Photorealistic intimate lifestyle / editorial portrait, film-like muted tones, natural skin texture",
+    "colors": "Black, warm skin tones, white bedding, muted grey and beige walls, brown wood accent",
+    "mood": "Quiet, intimate, moody, relaxed morning atmosphere"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, long tousled dark brown wavy hair, natural makeup, nude-rose lips, calm serious expression, looking at camera",
+    "clothing": "oversized black chunky-knit sweater worn off one shoulder, long sleeves, bare legs, barefoot",
+    "pose": "sitting on a bed, one knee raised, other leg folded on the mattress, arms relaxed at sides, head slightly tilted",
+    "environment": "minimal bedroom, rumpled white bed sheets, large white-framed window behind on the left, pale grey walls, dark wooden nightstand on the right",
+    "lighting": "soft diffused natural window light from the left, low contrast, gentle shadows",
+    "camera": "square frame, eye-level with seated subject, 50mm lens, shallow depth of field, sharp focus on face",
+    "style": "photorealistic intimate lifestyle editorial portrait, muted film tones, natural skin texture",
+    "negative_prompt": "blurry, distorted hands, extra fingers, extra limbs, distorted face, cartoon, oversaturated, plastic skin, harsh flash, cluttered background, watermark, text",
+    "aspect_ratio": "1:1"
+  }
+}
