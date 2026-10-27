@@ -1,0 +1,37 @@
+{
+  "filename": "d34d12ec5771dd484e7090fdc416ee54.jpg",
+  "original_filename": "d34d12ec5771dd484e7090fdc416ee54.jpg",
+  "suggested_name": "sorriso-mao-no-queixo-preto-e-branco.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1xJ7_IqvrI7NRsz89kaQAhsyE7bgKWBTJ",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-27T11:05:00Z",
+  "image_size": "736x1327",
+  "description": {
+    "subject": "Young woman, around early 20s, very long straight dark hair with loose flyaway strands falling over both shoulders and down her back, defined dark eyebrows, bright eyes, wide warm open-mouthed smile showing teeth, cheerful friendly expression",
+    "pose": "Sitting with knees drawn up close together in front of her, torso leaning slightly forward, right elbow resting on her knees and right hand curled into a loose fist under her chin, left arm wrapped around the outside of her legs, head slightly tilted, looking directly at the camera",
+    "clothing": {
+      "top": "Not clearly visible; shoulders and arms appear bare, upper body largely hidden by her raised knees and arms",
+      "bottom": "Dark short shorts, only partly visible at the lower right edge",
+      "footwear": "Not visible (frame ends at the shins)",
+      "accessories": "None visible"
+    },
+    "setting": "Minimal indoor space with a plain light seamless wall behind her and a pale surface (bed or mattress edge) barely visible at the bottom of the frame",
+    "lighting": "Soft, even, diffused light from the front, low contrast, smooth gentle shading on the arms, legs and face, no harsh shadows",
+    "composition": "Vertical portrait frame, subject centered from the top of the head down to the shins, legs filling the lower third, camera at about eye level and close, generous plain background around the head",
+    "style": "Black and white photorealistic portrait, clean studio / lifestyle editorial look, smooth skin with soft glow",
+    "colors": "Monochrome grayscale: deep black hair, light grey skin tones, pale off-white background",
+    "mood": "Joyful, warm, playful, relaxed and approachable"
+  },
+  "prompt_json": {
+    "subject": "young woman with very long straight dark hair and loose flyaway strands, defined eyebrows, bright eyes, wide warm smile showing teeth, looking at camera",
+    "clothing": "bare shoulders and arms, dark short shorts partly visible",
+    "pose": "sitting with knees drawn up together, leaning slightly forward, right fist resting under chin with elbow on knees, left arm wrapped around legs, head slightly tilted",
+    "environment": "minimal room, plain light seamless wall, pale bed surface barely visible at the bottom",
+    "lighting": "soft even diffused frontal light, low contrast, no harsh shadows",
+    "camera": "vertical portrait, eye level, close framing from head to shins, 85mm lens, sharp focus on face",
+    "style": "black and white photorealistic portrait, clean editorial lifestyle look, soft glowing skin, monochrome",
+    "negative_prompt": "color, blurry, distorted hands, extra fingers, extra limbs, distorted face, cartoon, plastic skin, harsh flash, cluttered background, watermark, text",
+    "aspect_ratio": "9:16"
+  }
+}
