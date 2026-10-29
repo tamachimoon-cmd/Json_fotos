@@ -1,0 +1,37 @@
+{
+  "filename": "Screenshot_20261003-081914.jpg",
+  "original_filename": "Screenshot_20261003-081914.jpg",
+  "suggested_name": "macaquinho-preto-costas-amarracao-provador.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1O7Zyn6HXOZbvPFAph2I8Tn2U32EKEWgD",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-29T11:15:00Z",
+  "image_size": "1080x2436",
+  "description": {
+    "subject": "Young woman with tanned skin and long dark wavy hair past the shoulders, seen from behind taking a mirror selfie, face in partial profile turned to her left, small gold hoop earring; image is a phone screenshot of a shopping app product gallery (back arrow, search and cart icons top, '7/15' counter, product card at the bottom reading 'R$49,00', 'Macaquinho Bia Curto Feminin...' with a 'Comprar Agora' button, store badge and 'Compartilhar' button)",
+    "pose": "Standing with her back to the camera, weight on both legs, feet slightly apart, left arm relaxed at her side, right arm raised holding a black smartphone near her face, head turned slightly toward her left shoulder",
+    "clothing": {
+      "top": "Black romper bodice with thin spaghetti straps crossing in an X over the open back and black cord lacing in a criss-cross corset pattern down the back, tied in a bow at the waist with hanging cord ends",
+      "bottom": "Short black flared romper skirt/shorts with two tiered ruffle layers, very short length",
+      "footwear": "Black patent high-heel stiletto sandals with thin ankle straps",
+      "accessories": "Small gold hoop earring, black smartphone, light manicured nails"
+    },
+    "setting": "Clothing store fitting room seen in a tall mirror: grey floor-length curtain behind her, light grey walls, a small grey upholstered cube ottoman on the left, a wall hook with a black hanger, light wood-look floor, white mirror frame edge on the left",
+    "lighting": "Soft warm indoor light from above and the front, even exposure, gentle shadows on legs and back, slight glow from the mirror's edge on the left",
+    "composition": "Vertical full-body mirror selfie from head to feet, subject centered, back view, camera at chest height; the photo sits in the middle of a tall phone screenshot with black bars and app UI above and below",
+    "style": "Photorealistic smartphone mirror selfie, fashion e-commerce / influencer product shot",
+    "colors": "Black outfit and heels, tanned skin, dark brown hair, neutral greys of curtain and ottoman, beige-wood floor, off-white walls; orange-red app buttons and price in the UI",
+    "mood": "Confident, flirty, stylish, casual night-out fashion"
+  },
+  "prompt_json": {
+    "subject": "young woman with tanned skin and long dark wavy hair, seen from behind, face in partial profile, small gold hoop earring, taking a mirror selfie with a black smartphone",
+    "clothing": "black short romper with thin spaghetti straps crossed in an X over an open back, criss-cross black cord lace-up corset back tied in a bow at the waist, two-tier ruffled flared short hem, black patent stiletto sandals with ankle straps",
+    "pose": "standing with back to the mirror, feet slightly apart, left arm relaxed at her side, right arm raised holding the phone near her face, head turned slightly over her left shoulder",
+    "environment": "clothing store fitting room, grey floor-length curtain, light grey walls, small grey upholstered cube ottoman, wall hook with black hanger, light wood-look floor, mirror frame edge visible on the left",
+    "lighting": "soft warm overhead indoor light, even exposure, gentle shadows",
+    "camera": "full-body vertical mirror selfie from head to feet, back view, chest-height phone camera, sharp focus on subject",
+    "style": "photorealistic smartphone mirror selfie, fashion influencer e-commerce look, detailed fabric textures",
+    "negative_prompt": "phone UI, app interface, price tag, product card, buttons, page counter, black bars, text, watermark, extra fingers, distorted hands, extra limbs, distorted face, blurry, cartoon, plastic skin, oversaturated",
+    "aspect_ratio": "9:16"
+  }
+}
