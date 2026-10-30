@@ -1,0 +1,37 @@
+{
+  "filename": "c2f77d4f38d231b079f503710e612fdf.jpg",
+  "original_filename": "c2f77d4f38d231b079f503710e612fdf.jpg",
+  "suggested_name": "streetwear-bone-la-fones-escadaria.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "16zi4P7xZQxkLiKLHmFeeHKR2tswKwr1s",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-30T11:05:00Z",
+  "image_size": "576x1024",
+  "description": {
+    "subject": "Young woman with fair skin and very long straight black hair falling over her chest and shoulders, neutral calm expression with soft pink lips, looking directly at the camera; small 'Cici AI' watermark in the bottom right corner",
+    "pose": "Sitting on a step of an outdoor staircase, legs spread wide and relaxed, left leg extended down the steps toward the camera, right knee bent with the foot resting on a lower step, left hand resting flat on the step beside her hip, right arm relaxed at her side, torso upright and facing forward",
+    "clothing": {
+      "top": "Oversized black short-sleeve crew-neck T-shirt with large white handwritten graffiti-style script lettering across the chest (text not legible)",
+      "bottom": "Very baggy light-to-medium wash blue denim cargo jeans with side cargo pockets on the thighs and stacked hems, worn with a black belt",
+      "footwear": "Chunky black lace-up sneakers with thick soles",
+      "accessories": "Blue denim baseball cap with a white 'LA' logo, large silver-white over-ear headphones worn over the cap, layered thin silver chain necklaces with a small pendant"
+    },
+    "setting": "Urban outdoor concrete staircase with blue-grey painted steps and worn edges, a blue metal railing with vertical bars along the left side, a light grey concrete wall on the right, the stairs rising and narrowing into the background toward a softly blurred bright exit",
+    "lighting": "Soft diffused overcast daylight, even exposure with no harsh shadows, cool tones, gentle shading under the steps",
+    "composition": "Vertical full-body shot from a slightly elevated front angle, subject centered on the stairs, leading lines of the steps and railing converging behind her, shallow background depth with the upper stairs slightly soft",
+    "style": "Photorealistic AI-generated street-style fashion portrait, Korean/Japanese streetwear editorial look",
+    "colors": "Cool palette of denim blues, blue-grey steps and railing, black T-shirt, sneakers and hair, white lettering and headphones, light grey concrete",
+    "mood": "Cool, relaxed, effortless urban streetwear attitude"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair skin and very long straight black hair, neutral calm expression, looking directly at the camera",
+    "clothing": "oversized black short-sleeve T-shirt with large white graffiti-style script print, very baggy light-wash blue denim cargo jeans with side pockets and black belt, chunky black lace-up sneakers, blue denim baseball cap with white LA logo, large silver-white over-ear headphones worn over the cap, layered thin silver chain necklaces",
+    "pose": "sitting on an outdoor stair step, legs spread wide and relaxed, left leg extended down the steps, right knee bent with foot on a lower step, left hand resting on the step, torso upright facing forward",
+    "environment": "urban outdoor concrete staircase with blue-grey painted steps, blue metal railing with vertical bars on the left, light grey concrete wall on the right, stairs rising into a softly blurred background",
+    "lighting": "soft diffused overcast daylight, even exposure, cool tones, no harsh shadows",
+    "camera": "vertical full-body shot, slightly elevated front angle, centered subject, leading lines of steps and railing, sharp focus on subject, subtle background softness",
+    "style": "photorealistic street-style fashion editorial, Korean streetwear aesthetic, detailed denim and fabric textures",
+    "negative_prompt": "watermark, logo text overlay, Cici AI watermark, extra fingers, distorted hands, extra limbs, distorted face, blurry, cartoon, plastic skin, oversaturated, harsh shadows, deformed feet",
+    "aspect_ratio": "9:16"
+  }
+}
