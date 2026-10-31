@@ -1,0 +1,37 @@
+{
+  "filename": "90e6d74f7eb96fe3112b16041b4941fd.jpg",
+  "original_filename": "90e6d74f7eb96fe3112b16041b4941fd.jpg",
+  "suggested_name": "cabelo-azul-jeans-tenis-arranha-ceus.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1AwVDYs3DFHDq3BinlNNqiqpOx2N4BINi",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-10-31T11:09:39Z",
+  "image_size": "735x1105",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, long straight dark navy-blue hair with blunt wispy bangs, a small silver star-shaped hair clip on the right side, natural soft makeup with pinkish lips, calm serious expression looking directly at the camera",
+    "pose": "Crouching / squatting low on the asphalt, knees bent and pointing toward camera, right elbow resting on her knee with her right hand cupping her cheek and chin, left arm hanging down with relaxed fingers near the ground, upper body leaning slightly forward",
+    "clothing": {
+      "top": "Oversized plain white short-sleeve crew-neck T-shirt with a small dark logo partially visible at the chest",
+      "bottom": "Loose wide-leg light-wash blue denim jeans",
+      "footwear": "Chunky white and metallic silver dad-style sneakers with white crew socks",
+      "accessories": "Small silver star hair clip, thin silver ring on the left hand"
+    },
+    "setting": "Urban outdoor scene on an empty asphalt road or overpass under a bright blue sky with a few wispy white clouds; tall modern glass skyscrapers rise behind her, one very tall tapering blue-glass tower on the right and two high-rises on the left; grey metal guardrails and a pale concrete railing run behind her, with green trees at mid-right",
+    "lighting": "Bright natural daylight, sunny clear weather, soft even light on the subject with gentle shadows, vivid sky",
+    "composition": "Vertical full-body shot taken from a very low angle near ground level, wide-angle perspective that enlarges the sneakers in the foreground and makes the skyscrapers tower over her; subject centered, buildings converging toward the top of the frame",
+    "style": "Photorealistic street-fashion / K-style casual editorial portrait, clean sharp details, slight wide-angle distortion",
+    "colors": "Sky blue, navy blue hair, white, light denim blue, silver, asphalt grey, touches of green",
+    "mood": "Cool, confident, laid-back urban streetwear vibe"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with long straight dark navy-blue hair and wispy bangs, small silver star hair clip, fair skin, soft natural makeup, calm serious expression looking straight at the camera",
+    "clothing": "oversized plain white short-sleeve T-shirt, loose wide-leg light-wash blue jeans, chunky white and metallic silver sneakers with white socks, thin silver ring",
+    "pose": "crouching low on the road with knees toward camera, right hand cupping her cheek with elbow on knee, left arm relaxed hanging down",
+    "environment": "empty asphalt city road with grey guardrails and concrete railing, tall modern glass skyscrapers behind her, green trees, bright blue sky with wispy clouds",
+    "lighting": "bright natural midday sunlight, clear sunny day, soft shadows",
+    "camera": "extreme low-angle full-body shot from ground level, wide-angle lens, sneakers large in the foreground, skyscrapers converging upward, sharp focus",
+    "style": "photorealistic street-fashion editorial, casual K-style streetwear, crisp details, natural skin texture",
+    "negative_prompt": "blurry, distorted hands, extra fingers, distorted face, cartoon, anime, oversaturated, plastic skin, crowded street, cars, text, watermark",
+    "aspect_ratio": "2:3"
+  }
+}
