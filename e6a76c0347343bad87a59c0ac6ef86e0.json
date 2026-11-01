@@ -1,0 +1,37 @@
+{
+  "filename": "e6a76c0347343bad87a59c0ac6ef86e0.jpg",
+  "original_filename": "e6a76c0347343bad87a59c0ac6ef86e0.jpg",
+  "suggested_name": "jaqueta-preta-shorts-jeans-estacao-trem.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "129uxFUCKQ5nrgUc6_ezAWn8VcEeBkpED",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-01T11:03:22Z",
+  "image_size": "592x1024",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, very long straight jet-black hair with blunt wispy bangs, defined dark eye makeup, rosy blushed cheeks, glossy deep red lips, small hoop earrings, sultry confident expression with head slightly tilted, looking at the camera",
+    "pose": "Standing and leaning her right shoulder and back against a weathered pillar, body angled slightly toward camera, both hands tucked into the front pockets of her shorts, head tilted to her right",
+    "clothing": {
+      "top": "Black lace-trimmed cropped bralette top exposing the midriff, under an open glossy black patent/leather-look oversized bomber jacket with ribbed black cuffs and hem and a front zipper",
+      "bottom": "Low-rise blue denim cut-off shorts with frayed hems and ripped distressing",
+      "footwear": "Not visible (frame ends at the thighs)",
+      "accessories": "Black velvet choker, thin silver necklace with a small heart pendant, small silver hoop earrings"
+    },
+    "setting": "Outdoor train station platform under a covered steel-beam canopy; a silver commuter train with rectangular windows is stopped or passing in the softly blurred background; she leans on a pale teal-green painted pillar with rust stains and red and blue graffiti tags, including red letters and some East Asian characters",
+    "lighting": "Warm natural daylight with sunlight coming from the left, soft golden highlights on the platform floor, glossy reflections on the jacket, gentle shadows on the face",
+    "composition": "Vertical three-quarter shot from mid-thigh up, slightly low eye-level angle, subject placed left of center, pillar on the right edge as a framing element, shallow depth of field blurring the train and canopy",
+    "style": "Photorealistic, cinematic urban fashion portrait with a moody Asian street / grunge editorial look, rich texture detail",
+    "colors": "Jet black, glossy black, denim blue, deep red, muted teal-green, rust orange, silver-grey train, warm golden light",
+    "mood": "Edgy, rebellious, cool and alluring urban vibe"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with very long straight jet-black hair and wispy blunt bangs, fair skin, dark eye makeup, rosy cheeks, glossy deep red lips, small silver hoop earrings, sultry confident expression, head tilted, looking at the camera",
+    "clothing": "open oversized glossy black patent leather bomber jacket with ribbed cuffs, black lace-trimmed cropped bralette, low-rise ripped frayed blue denim cut-off shorts, black velvet choker, thin silver necklace with small heart pendant",
+    "pose": "leaning her shoulder against a weathered pillar, hands tucked into the front pockets of her shorts, body slightly angled toward camera",
+    "environment": "outdoor train station platform under a steel canopy, silver commuter train blurred in the background, pale teal-green pillar with rust stains and red and blue graffiti",
+    "lighting": "warm natural daylight from the left, golden sunlight on the platform, glossy reflections on the jacket, soft shadows",
+    "camera": "vertical three-quarter shot from mid-thigh up, slightly low eye-level angle, 50mm lens look, shallow depth of field, sharp focus on the face",
+    "style": "photorealistic cinematic urban fashion editorial, grunge Asian street style, detailed textures, natural skin texture",
+    "negative_prompt": "blurry face, distorted hands, extra fingers, deformed anatomy, cartoon, anime, plastic skin, oversaturated, crowds, watermark, logo, extra text",
+    "aspect_ratio": "9:16"
+  }
+}
