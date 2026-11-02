@@ -1,0 +1,37 @@
+{
+  "filename": "55fc7a9e7bfa89c99d40e97d262e95a7.jpg",
+  "original_filename": "55fc7a9e7bfa89c99d40e97d262e95a7.jpg",
+  "suggested_name": "regata-branca-jeans-rasgado-estudio.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1855iqE_yHmEyUuhGuHAY6SknCUBmQdJw",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-02T11:04:31Z",
+  "image_size": "736x917",
+  "description": {
+    "subject": "Young woman, around early 20s, light olive skin, very long straight jet-black hair blown by wind with loose strands across her face, dark defined brows, intense direct gaze, neutral serious expression with slightly parted lips, looking at the camera; small red tattoo on her lower abdomen below the navel",
+    "pose": "Standing with weight shifted onto one leg, hips pushed to the side, torso slightly leaning, left hand resting on her hip at the jeans waistband, right arm relaxed down at her side, chin slightly lowered",
+    "clothing": {
+      "top": "White fitted ribbed racerback cropped tank top exposing the midriff",
+      "bottom": "Light-wash baggy wide-leg blue jeans worn low on the hips with a folded-down waistband, large ripped holes at both knees and frayed edges",
+      "footwear": "Not visible (frame ends below the knees)",
+      "accessories": "None clearly visible"
+    },
+    "setting": "Plain seamless light grey studio backdrop with no props",
+    "lighting": "Soft directional studio light from the front-left, gentle gradient on the backdrop, subtle rim light separating the dark hair from the background, soft shadows on the right side of the body",
+    "composition": "Vertical full-body-to-shins shot from a slightly low angle, subject centered, generous negative space above the head, sharp focus throughout",
+    "style": "Photorealistic minimalist studio fashion editorial with a casual streetwear / 90s-inspired look",
+    "colors": "Jet black, crisp white, pale denim blue, light grey, warm skin tones, small red tattoo accent",
+    "mood": "Confident, cool, effortless and slightly edgy"
+  },
+  "prompt_json": {
+    "subject": "young woman with very long straight jet-black hair blowing in the wind, light olive skin, dark brows, intense direct gaze, serious expression, small red tattoo on lower abdomen",
+    "clothing": "white fitted ribbed racerback cropped tank top, light-wash baggy wide-leg low-rise jeans with folded waistband and large ripped knees",
+    "pose": "standing with hip pushed to the side, left hand on hip at the waistband, right arm relaxed at her side, chin slightly lowered, looking at the camera",
+    "environment": "plain seamless light grey studio backdrop, no props",
+    "lighting": "soft directional studio light from front-left, subtle rim light on the hair, gentle backdrop gradient, soft shadows",
+    "camera": "vertical shot from head to below the knees, slightly low angle, 50mm lens look, sharp focus, clean negative space above the head",
+    "style": "photorealistic minimalist studio fashion editorial, 90s casual streetwear vibe, natural skin texture, detailed fabric texture",
+    "negative_prompt": "blurry face, distorted hands, extra fingers, deformed anatomy, cartoon, anime, plastic skin, oversaturated, busy background, props, watermark, logo, extra text",
+    "aspect_ratio": "4:5"
+  }
+}
