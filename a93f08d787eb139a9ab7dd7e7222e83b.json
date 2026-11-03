@@ -1,0 +1,37 @@
+{
+  "filename": "a93f08d787eb139a9ab7dd7e7222e83b.jpg",
+  "original_filename": "a93f08d787eb139a9ab7dd7e7222e83b.jpg",
+  "suggested_name": "cropped-preto-cargo-ponte-vidro.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1qHXjHTI2yticZIFl1XIzUAH2EycnJtXt",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-03T11:04:08Z",
+  "image_size": "736x1308",
+  "description": {
+    "subject": "Young East Asian woman, around her 20s, fair skin, long straight dark brown hair worn loose past the shoulders with a few strands falling in front, soft natural makeup, calm subtle smile, looking directly at the camera",
+    "pose": "Walking toward the camera mid-stride along the center of a walkway, left leg stepping forward, both arms relaxed down at her sides, shoulders straight, upright posture",
+    "clothing": {
+      "top": "Black fitted short-sleeve crew-neck cropped t-shirt exposing a small strip of the midriff",
+      "bottom": "Black loose high-waisted wide-leg cargo pants with large flap pockets on the thighs and dangling strap details at the sides",
+      "footwear": "Black glossy chunky leather shoes",
+      "accessories": "None clearly visible"
+    },
+    "setting": "Elevated pedestrian bridge with a transparent glass floor and glass side railings with metal handrails, enclosed by a large grey-blue steel truss structure overhead and on both sides; hazy city skyline and greenery faintly visible in the distance on the left",
+    "lighting": "Soft diffused daylight under an overcast hazy sky, even illumination on the subject with gentle shadows, reflections of the steel trusses on the glass floor",
+    "composition": "Vertical full-body shot from a low, centered viewpoint, strong one-point perspective with the bridge trusses and railings converging behind the subject, subject centered in the frame, sharp focus on the subject; small 'Cici AI' watermark text in the bottom-right corner",
+    "style": "Photorealistic urban street-style fashion photo, clean modern editorial look",
+    "colors": "Black outfit, cool steel grey-blue, pale teal glass, hazy light blue-white sky, warm skin tones",
+    "mood": "Calm, confident, modern and airy"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with long straight dark brown hair worn loose, fair skin, soft natural makeup, calm subtle smile, looking at the camera",
+    "clothing": "black fitted short-sleeve crew-neck cropped t-shirt, black loose high-waisted wide-leg cargo pants with large thigh flap pockets and side straps, black glossy chunky leather shoes",
+    "pose": "walking toward the camera mid-stride in the center of the walkway, arms relaxed at her sides, upright posture",
+    "environment": "elevated pedestrian bridge with transparent glass floor and glass railings with metal handrails, grey-blue steel truss structure overhead and on both sides, hazy city skyline in the distance",
+    "lighting": "soft diffused overcast daylight, even light on the subject, reflections of the steel trusses on the glass floor",
+    "camera": "vertical full-body shot, low centered angle, strong one-point perspective with converging trusses, 35mm lens look, sharp focus on the subject",
+    "style": "photorealistic urban street-style fashion editorial, natural skin texture, detailed fabric texture, cool muted color palette",
+    "negative_prompt": "blurry face, distorted hands, extra fingers, deformed anatomy, cartoon, anime, plastic skin, oversaturated, crowded background, other people, watermark, logo, extra text",
+    "aspect_ratio": "9:16"
+  }
+}
