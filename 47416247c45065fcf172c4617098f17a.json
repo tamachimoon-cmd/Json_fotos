@@ -1,0 +1,37 @@
+{
+ "filename": "47416247c45065fcf172c4617098f17a.jpg",
+ "original_filename": "47416247c45065fcf172c4617098f17a.jpg",
+ "suggested_name": "sage-off-shoulder-crop-denim-shorts.jpg",
+ "renamed_in_drive": false,
+ "drive_file_id": "1P1ZhJ4DwTi8o_skl8wIsF962BN_Mmz72",
+ "source": "Google Drive / Pinterest folder",
+ "extracted_at": "2026-11-04T11:04:34Z",
+ "image_size": "736x974",
+ "description": {
+  "subject": "Young woman, around her early 20s, fair skin with light freckles, auburn-brown hair pulled up into a loose messy bun with face-framing wispy strands and curtain bangs, natural makeup with rosy cheeks and soft pink lips, neutral serious expression, looking directly at the camera",
+  "pose": "Standing facing the camera in a relaxed three-quarter-body stance, left hand tucked into the front pocket of her shorts, right arm hanging loosely at her side, shoulders bare and relaxed",
+  "clothing": {
+   "top": "Sage green crinkled cotton off-the-shoulder crop top with an elasticated ruffled neckline, short puff sleeves with ruffled cuffs and a fitted ruched band at the waist, exposing the midriff",
+   "bottom": "Light-wash blue high-waisted denim shorts with frayed raw hems, distressed rips on the legs and visible white pocket linings peeking below the hem",
+   "footwear": "Not visible",
+   "accessories": "Thin delicate gold chain necklace with a small pendant"
+  },
+  "setting": "Bright modern living room with light herringbone wooden floor, a light oak low sideboard on the left holding a white ceramic vase with white lilies and green leaves, beige wall, sheer white linen curtains, and a large floor-to-ceiling black-framed glass door behind her opening onto a balcony with a metal railing and blurred green trees outside",
+  "lighting": "Soft natural daylight coming from the large window behind and to the side, gentle diffused light on the face and skin, subtle soft shadows, slightly bright background",
+  "composition": "Vertical shot framed from above the head to mid-thigh, subject centered, shallow depth of field with the background softly blurred, eye-level camera angle",
+  "style": "Photorealistic lifestyle fashion portrait, natural candid editorial look, soft and clean aesthetic",
+  "colors": "Sage green, light denim blue, warm skin tones, auburn hair, light oak wood, white and beige neutrals, soft green from the trees outside, black window frame accents",
+  "mood": "Calm, fresh, natural and summery"
+ },
+ "prompt_json": {
+  "subject": "young woman with fair freckled skin, auburn-brown hair in a loose messy bun with wispy face-framing strands and curtain bangs, natural makeup, rosy cheeks, soft pink lips, neutral expression, looking at the camera",
+  "clothing": "sage green crinkled cotton off-the-shoulder crop top with ruffled elastic neckline, short puff sleeves and ruched waistband, light-wash high-waisted frayed distressed denim shorts with pocket linings showing, thin gold chain necklace with small pendant",
+  "pose": "standing facing the camera, left hand tucked into the front pocket of the shorts, right arm relaxed at her side, bare shoulders",
+  "environment": "bright modern living room with light herringbone wood floor, light oak sideboard with white vase of white lilies, sheer white linen curtains, large black-framed floor-to-ceiling glass door opening to a balcony with blurred green trees",
+  "lighting": "soft natural window daylight, diffused and gentle on skin, soft shadows, bright airy background",
+  "camera": "vertical three-quarter body shot from head to mid-thigh, eye-level angle, 50mm lens look, shallow depth of field, sharp focus on the subject",
+  "style": "photorealistic lifestyle fashion portrait, natural skin texture with freckles, detailed fabric texture, soft clean color palette",
+  "negative_prompt": "blurry face, distorted hands, extra fingers, deformed anatomy, cartoon, anime, plastic skin, oversaturated, heavy makeup, cluttered background, other people, watermark, logo, text",
+  "aspect_ratio": "3:4"
+ }
+}
