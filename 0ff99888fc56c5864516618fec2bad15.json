@@ -1,0 +1,37 @@
+{
+ "filename": "0ff99888fc56c5864516618fec2bad15.jpg",
+ "original_filename": "0ff99888fc56c5864516618fec2bad15.jpg",
+ "suggested_name": "bw-open-white-shirt-baggy-jeans.jpg",
+ "renamed_in_drive": false,
+ "drive_file_id": "1lX7tlF09HAzXGQ_aOi00Z2PE0MIWCppH",
+ "source": "Google Drive / Pinterest folder",
+ "extracted_at": "2026-11-05T11:10:26Z",
+ "image_size": "736x920",
+ "description": {
+  "subject": "Young slim woman with long dark straight hair falling loose over her shoulders and back, slightly tousled with strands across the shoulder, natural minimal makeup, full lips, calm and serious expression, chin slightly lowered, looking directly at the camera",
+  "pose": "Standing with her body angled slightly to the right of frame and hips pushed forward, both arms bent behind her back so the hands rest at the back of the waist, one shoulder bare, torso elongated, legs apart in a wide confident stance",
+  "clothing": {
+   "top": "Oversized light button-up shirt in a crisp cotton fabric, worn open and slipped off the right shoulder, the front bunched and gathered up above the waist so the midriff and navel are exposed, sleeves pushed and crumpled",
+   "bottom": "Light-wash low-rise baggy straight-leg denim jeans with a wide waistband, silver button, front pockets and visible fading and whisker creases",
+   "footwear": "Not visible",
+   "accessories": "None visible"
+  },
+  "setting": "Plain light studio wall, seamless and empty, with a soft cast shadow of the subject falling on the wall to her left side",
+  "lighting": "Strong directional light from the left side of the frame, bright highlights on the shirt and skin, soft gradient falloff to the right, clear shadow on the wall behind her, moderate contrast",
+  "composition": "Vertical shot framed from the top of the head to the lower legs, subject slightly left of center, camera at a slightly low angle looking up, plenty of negative space on the right, thin light border around the image",
+  "style": "Black-and-white editorial fashion photography, film-like look with visible grain, minimalist studio aesthetic",
+  "colors": "Monochrome grayscale: bright whites on the shirt and wall, mid-gray denim, dark near-black hair, soft gray shadows",
+  "mood": "Cool, confident, effortless and moody"
+ },
+ "prompt_json": {
+  "subject": "young slim woman with long dark straight loose hair, natural minimal makeup, full lips, serious calm expression, chin slightly lowered, looking at the camera",
+  "clothing": "oversized crisp white cotton button-up shirt worn open, slipped off one shoulder and gathered up above the waist exposing the midriff, light-wash low-rise baggy straight-leg denim jeans with faded whiskers",
+  "pose": "standing with hips pushed forward and body slightly angled, both hands placed behind her back at the waist, one bare shoulder, legs apart in a wide confident stance",
+  "environment": "plain seamless light studio wall with her soft shadow cast on the wall beside her",
+  "lighting": "strong directional key light from the left, bright highlights on shirt and skin, soft gradient falloff, visible wall shadow, moderate contrast",
+  "camera": "vertical shot from head to lower legs, slightly low camera angle, 35-50mm lens look, sharp focus on the subject, generous negative space on the right",
+  "style": "black and white editorial fashion photography, analog film grain, minimalist studio aesthetic, natural skin texture, detailed fabric and denim texture",
+  "negative_prompt": "color, blurry face, distorted hands, extra fingers, deformed anatomy, cartoon, anime, plastic skin, heavy makeup, busy background, props, other people, watermark, logo, text",
+  "aspect_ratio": "4:5"
+ }
+}
