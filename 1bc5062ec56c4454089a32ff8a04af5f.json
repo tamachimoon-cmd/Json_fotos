@@ -1,0 +1,37 @@
+{
+  "filename": "1bc5062ec56c4454089a32ff8a04af5f.jpg",
+  "original_filename": "1bc5062ec56c4454089a32ff8a04af5f.jpg",
+  "suggested_name": "ny-yankees-cap-knotted-tee-cargo-underpass.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1G4M0gB3EtfK6FMURtJyyqWCmumTViAE4",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-06T11:07:13Z",
+  "image_size": "572x1024",
+  "description": {
+    "subject": "Young woman, early-to-mid 20s, light tan skin, long wavy light-to-medium brown hair falling over shoulders and chest, neutral confident expression, looking at the camera",
+    "pose": "Standing full-body facing the camera on an asphalt street, one hand raised resting on top of her baseball cap / head, other arm relaxed at her side holding the shoulder bag strap area, weight centered",
+    "clothing": {
+      "top": "Black short-sleeved t-shirt with a small white New York Yankees NY logo on the left chest, front hem knotted at the waist to create a cropped look exposing midriff",
+      "bottom": "Low-rise dark grey/black washed denim cargo pants with multiple pockets, silver zippers, and buckle straps wrapped around the thighs",
+      "footwear": "Not clearly visible / cropped at ankles or obscured",
+      "accessories": "Faded grey/black distressed denim baseball cap with silver NY Yankees logo; thin silver necklace with small pendant; small black leather-like shoulder bag with buckled exterior pockets and thick strap with silver eyelets, slung over left shoulder"
+    },
+    "setting": "Outdoor urban street in front of a concrete underpass/tunnel with yellow-and-black hazard stripes on pillars, industrial metal railway/bridge structure with fencing overhead, asphalt road with painted lines and a manhole cover, white height-limit 3.5m sign and blue upward-arrow sign with Japanese text, clear bright sky",
+    "lighting": "Bright natural daylight from above/front, soft shadows under the hat brim and on the ground, clear sunny conditions",
+    "composition": "Vertical full-body portrait, subject centered in foreground, low-to-medium camera angle, underpass and bridge filling the background, road markings in the lower frame",
+    "style": "Photorealistic street fashion photography, Japanese urban streetwear aesthetic, high detail, candid editorial look",
+    "colors": "Black, grey denim wash, concrete grey, bright blue sky, yellow-black hazard stripes, silver metal accents, warm brown hair, light tan skin",
+    "mood": "Confident, cool street style, effortlessly stylish, urban daytime energy"
+  },
+  "prompt_json": {
+    "subject": "young woman with light tan skin, long wavy light brown hair over shoulders, neutral confident expression looking at camera",
+    "clothing": "faded grey distressed NY Yankees baseball cap, black short-sleeve NY logo t-shirt knotted at the waist exposing midriff, dark washed denim cargo pants with zippered pockets and thigh buckle straps, thin silver pendant necklace, small black buckled shoulder bag with eyelet strap",
+    "pose": "full-body standing facing camera, one hand resting on top of baseball cap, other arm relaxed by side holding bag strap, centered on asphalt street",
+    "environment": "urban street in front of concrete underpass with yellow-black hazard stripes, metal railway bridge overhead, Japanese road signs including 3.5m height limit, asphalt with painted lines, clear blue sky",
+    "lighting": "bright natural daylight, soft shadows under hat brim, sunny clear day",
+    "camera": "35mm lens, slight low angle, vertical full-body shot, sharp focus on subject, high resolution",
+    "style": "photorealistic Japanese street fashion photography, streetwear editorial, natural skin texture, detailed fabric and denim wash",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry, cartoon, anime, oversaturated, plastic skin, heavy makeup, empty studio background, text watermark, logo overlay",
+    "aspect_ratio": "9:16"
+  }
+}
