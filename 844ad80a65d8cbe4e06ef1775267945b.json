@@ -1,0 +1,37 @@
+{
+  "filename": "844ad80a65d8cbe4e06ef1775267945b.jpg",
+  "original_filename": "844ad80a65d8cbe4e06ef1775267945b.jpg",
+  "suggested_name": "fones-jaqueta-varsity-preta-top-cinza-van.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1Wwpj7BJRiECTw4lhkn8WXIgEAwOydrUG",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-07T11:07:48Z",
+  "image_size": "576x1024",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, very long straight dark brown hair falling past the chest with a few strands over the shoulders, straight brows, dark eyes, soft natural makeup with rosy pouting lips",
+    "pose": "Standing in three-quarter view, body angled slightly to the side, head turned to her left looking away from the camera with a playful pout, right hand raised to the side of her head near the headphone, left arm hanging down inside the jacket sleeve",
+    "clothing": {
+      "top": "Light heather-grey triangle bralette with a white elastic underband printed with a brand logo, worn under an oversized black glossy leather-like varsity/bomber jacket slipped off the shoulders, with black-and-white striped ribbed cuffs and hem and a white embroidered graphic on the left sleeve",
+      "bottom": "Loose black sweatpants worn low on the hips with a visible white logo waistband of matching underwear and a thin yellow stripe near the bottom of the frame",
+      "footwear": "Not visible",
+      "accessories": "Large dark grey over-ear headphones with a silver headband"
+    },
+    "setting": "Outdoors next to the rear of a white van, with dark tinted rear windows, white plastic door hinges and a red-and-white tail light behind her; a bit of dry ground at the lower left",
+    "lighting": "Soft diffuse overcast daylight, flat and low-contrast, slightly underexposed with no strong shadows",
+    "composition": "Vertical 9:16 frame from the top of the head to the upper thighs, subject centered-left, eye-level camera, background in focus with mild softness, casual phone-snapshot framing",
+    "style": "Photorealistic casual street-style / K-fashion snapshot, moody muted Pinterest aesthetic with a dark desaturated grade",
+    "colors": "Muted palette of black, charcoal and heather grey, white van panels, red tail light accent, dark brown hair, fair skin tones, small yellow accent at the bottom",
+    "mood": "Cool, effortless, playful and slightly moody urban vibe"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, very long straight dark brown hair, dark eyes, soft natural makeup, rosy lips in a playful pout, looking away to the side",
+    "clothing": "light heather-grey triangle bralette with white elastic logo band, oversized black glossy leather varsity bomber jacket slipped off the shoulders with black-and-white striped ribbed cuffs and hem and a small white embroidered sleeve graphic, loose black low-rise sweatpants showing a white logo underwear waistband, large dark grey over-ear headphones",
+    "pose": "standing three-quarter view, head turned to the side, one hand raised to the side of her head near the headphone, relaxed posture",
+    "environment": "beside the rear of a white van with dark tinted rear windows, white door hinges and a red tail light, outdoor street setting",
+    "lighting": "soft overcast daylight, flat diffuse light, low contrast, slightly underexposed",
+    "camera": "smartphone-style 26mm lens, eye level, vertical framing from head to upper thighs, natural depth of field, high resolution",
+    "style": "photorealistic casual K-fashion street-style snapshot, moody muted Pinterest aesthetic, dark desaturated color grade, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry face, cartoon, anime, oversaturated colors, plastic skin, heavy makeup, harsh flash, bright sunny lighting, text, watermark, nudity",
+    "aspect_ratio": "9:16"
+  }
+}
