@@ -1,0 +1,37 @@
+{
+  "filename": "3825ce7af222f64f8621f29562ed1e7d (1).jpg",
+  "original_filename": "3825ce7af222f64f8621f29562ed1e7d (1).jpg",
+  "suggested_name": "melody-cap-sheer-tiedye-crop-bus.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1z_ifErjW63MM9XwM2EykxL9lmONSzcED",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-08T11:05:21Z",
+  "image_size": "736x1308",
+  "description": {
+    "subject": "Young East Asian woman, around early-to-mid 20s, fair skin with a warm golden tan from the sunlight, long slightly wavy dark brown-black hair with wispy bangs and sunlit strands, straight dark brows, dark brown eyes, natural makeup with glossy mauve-pink lips",
+    "pose": "Standing in the bus aisle facing the camera, right hand raised and touching her hair near the right side of her head, left arm hanging down along her side, head turned slightly to her left looking off-camera toward the window, lips closed in a calm, slightly distant expression",
+    "clothing": {
+      "top": "Black sheer mesh long-sleeve top worn over a scoop-neck cropped camisole with an abstract watercolor print in rust orange, amber, brown and black, midriff and navel visible",
+      "bottom": "Olive khaki cargo-style trousers with a visible button fly, belt loops and front pockets",
+      "footwear": "Not visible",
+      "accessories": "Beige-and-navy baseball cap with pink bubble-letter embroidery that reads \"Melody\" and a small flower detail, chunky silver chain necklace with multiple charms including round silver discs, a green gem pendant and colorful pink and blue beads"
+    },
+    "setting": "Interior aisle of a public bus or tram, with plastic passenger seats in orange-red, blue and teal-green, overhead handrails and grab handles, a yellow-gold vertical pole on the right, and large side windows showing sunlit urban buildings outside",
+    "lighting": "Warm golden-hour sunlight streaming in from the windows on the right, strong highlights on her face, hair and top, soft shadows, cinematic warm color",
+    "composition": "Vertical 9:16 medium shot from the top of the cap to the upper thighs, subject centered, eye-level camera, seats and windows slightly soft in the background",
+    "style": "Photorealistic fashion lifestyle portrait, cinematic warm golden-hour grade, Pinterest editorial aesthetic with a possible AI-generated polish, high detail on hair and sheer fabric",
+    "colors": "Warm gold sunlight, black sheer mesh, rust orange amber and brown print, olive khaki, beige and navy cap, pink lettering, orange blue and teal seats, silver jewelry, fair warm skin tones",
+    "mood": "Dreamy, stylish, contemplative, golden-hour cool"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair sunlit skin, long slightly wavy dark hair with wispy bangs, dark eyes, natural makeup, glossy mauve-pink lips, looking off-camera toward the window",
+    "clothing": "beige and navy baseball cap with pink Melody bubble-letter embroidery, black sheer mesh long-sleeve top over a rust-orange amber and brown watercolor print cropped camisole, olive khaki cargo trousers, chunky silver charm necklace with coins, a green gem and colorful beads",
+    "pose": "standing in a bus aisle, one hand raised touching her hair, the other arm relaxed at her side, head turned slightly looking toward the window",
+    "environment": "interior of a public bus with orange, blue and teal plastic seats, overhead handrails, a yellow pole, and sunlit city buildings visible through large windows",
+    "lighting": "warm golden-hour sunlight from the side windows, bright highlights on face and hair, soft cinematic shadows",
+    "camera": "50mm lens, eye level, vertical framing from head to upper thighs, shallow depth of field, high resolution",
+    "style": "photorealistic fashion lifestyle portrait, cinematic golden-hour color grade, Pinterest editorial aesthetic, natural skin texture, detailed hair strands and sheer fabric",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry face, cartoon, anime, oversaturated colors, plastic skin, heavy makeup, harsh flash, empty studio background, watermark, logo, nudity",
+    "aspect_ratio": "9:16"
+  }
+}
