@@ -1,0 +1,37 @@
+{
+  "filename": "aef288e76fe251f34c3aada4a412570b.jpg",
+  "original_filename": "aef288e76fe251f34c3aada4a412570b.jpg",
+  "suggested_name": "camiseta-rosa-degrade-jeans-claro-fundo-amarelo.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1eVe0WgbHjiS5IqAGmE4VBBWSssQkAvyi",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-09T11:08:58Z",
+  "image_size": "512x768",
+  "description": {
+    "subject": "Young woman, around early 20s, light olive / lightly tanned skin, very long voluminous wavy light brown hair with lighter caramel ends falling over both shoulders, defined dark eyebrows, light hazel-green eyes, natural makeup with soft nude-pink lips, serious neutral expression",
+    "pose": "Standing facing the camera, body straight and slightly angled, arms relaxed down along the sides, head level, direct calm gaze into the lens",
+    "clothing": {
+      "top": "Loose oversized short-sleeve t-shirt with an off-the-shoulder cutout on her right shoulder, pink-to-yellow ombre gradient (pink on top fading to pale yellow at the hem), white crochet lace appliqué below the neckline, hem knotted in front at the waist exposing a strip of midriff",
+      "bottom": "High-waisted pale mint / light blue jeans with button front and small front pockets",
+      "footwear": "Not visible",
+      "accessories": "Thin chain necklace with a small round pendant"
+    },
+    "setting": "Plain seamless studio backdrop in warm orange-yellow / mustard, no props",
+    "lighting": "Soft even studio lighting from the front, gentle shadows on the arms and under the hair, warm tone matching the backdrop",
+    "composition": "Vertical three-quarter shot from the top of the head to the upper thighs, subject centered, eye-level camera, uniform background with subtle vignette",
+    "style": "Photorealistic fashion / lookbook studio portrait, polished editorial look, possibly AI-generated",
+    "colors": "Saturated orange-yellow background, pink and pale yellow ombre top, white lace accent, pastel mint-blue jeans, warm light brown hair, warm skin tones",
+    "mood": "Confident, fresh, summery, casual-chic"
+  },
+  "prompt_json": {
+    "subject": "young woman with light olive lightly tanned skin, very long voluminous wavy light brown hair with caramel ends, light hazel-green eyes, defined dark eyebrows, natural makeup, nude-pink lips, serious neutral expression, direct gaze at camera",
+    "clothing": "loose oversized off-the-shoulder short-sleeve t-shirt with pink-to-pale-yellow ombre gradient, white crochet lace appliqué under the neckline, hem knotted at the front waist showing a little midriff, high-waisted pale mint-blue jeans, thin chain necklace with small round pendant",
+    "pose": "standing facing camera, arms relaxed at the sides, body slightly angled, head level",
+    "environment": "plain seamless warm orange-yellow mustard studio backdrop, no props",
+    "lighting": "soft even frontal studio lighting, gentle shadows, warm color temperature, subtle vignette",
+    "camera": "85mm lens, eye level, vertical three-quarter shot from head to upper thighs, subject centered, sharp focus, high resolution",
+    "style": "photorealistic fashion lookbook editorial portrait, vibrant colors, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry face, cartoon, anime, oversaturated skin, plastic skin, heavy makeup, busy background, props, text, watermark, logo, nudity",
+    "aspect_ratio": "2:3"
+  }
+}
