@@ -1,0 +1,37 @@
+{
+  "filename": "63776a4e0717c527a4b4a288936d08bd.jpg",
+  "original_filename": "63776a4e0717c527a4b4a288936d08bd.jpg",
+  "suggested_name": "garota-guitarra-vermelha-tapete-sala.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "149z1gO27DPgIXDjI0NO_emN-NuGt33Jh",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-10T11:40:00Z",
+  "image_size": "576x1024",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, long straight black hair with blunt bangs and teal/turquoise dyed ends on the lower strands, neutral calm expression with full lips, minimal natural makeup",
+    "pose": "Sitting on the floor on a rug, legs extended forward with knees slightly bent and feet apart, holding an electric guitar across her lap with her right hand on the strings near the body and left hand on the neck, gaze directed off-camera to her right",
+    "clothing": {
+      "top": "Oversized black short-sleeve T-shirt with a white gothic-lettered band-style graphic print (lettering partially hidden by the guitar)",
+      "bottom": "Light-wash loose baggy blue jeans with large ripped holes at both knees",
+      "footwear": "Black canvas high-top sneakers with white laces, white toe caps and white soles",
+      "accessories": "Thin silver chain necklace, red-and-white striped sweatband on the right wrist"
+    },
+    "setting": "Cozy living room: grey fabric sofa behind her draped with a white, red and dark teal geometric Southwest/Aztec-pattern throw blanket with fringe and a matching patterned cushion, plain light grey wall, worn blue-red Persian-style area rug on a dark wooden floor; on the floor to her left a glass bowl full of popcorn and a small pile of audio cassette tapes in black cases",
+    "lighting": "Soft diffuse cool daylight from the right side, low contrast, gentle shadows, slightly muted overcast feel",
+    "composition": "Vertical full-body shot from a slightly elevated front angle, subject centered, sneakers cropped at the bottom edge in the foreground, sofa filling the middle band and empty wall in the upper third; small 'Cici AI' watermark at bottom right",
+    "style": "Photorealistic AI-generated lifestyle portrait with a candid indie / grunge rock aesthetic, film-like muted color grading",
+    "colors": "Black, cherry red, white, light denim blue, teal, grey, warm brown wood, beige popcorn",
+    "mood": "Laid-back, moody, introspective, relaxed home jam session"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, long straight black hair with blunt bangs and teal-dyed ends, calm neutral expression, looking off to the side",
+    "clothing": "oversized black graphic band T-shirt with white gothic lettering, light-wash baggy ripped jeans with torn knees, black high-top canvas sneakers with white soles, thin silver chain necklace, red-and-white striped wristband",
+    "pose": "sitting on the floor with legs stretched forward, holding a red electric guitar with white pickguard and maple neck across her lap, one hand on the strings, one on the fretboard",
+    "environment": "cozy living room, grey sofa with white, red and teal Aztec-pattern fringed throw and cushion, plain light grey wall, worn Persian-style rug on dark wood floor, glass bowl of popcorn and a stack of cassette tapes on the floor beside her",
+    "lighting": "soft diffuse cool daylight from the right, low contrast, gentle shadows",
+    "camera": "full-body shot from a slightly high frontal angle, 35mm lens, moderate depth of field, subtle film grain",
+    "style": "photorealistic indie grunge lifestyle portrait, muted film color grading, natural skin texture, sharp details",
+    "negative_prompt": "extra fingers, distorted hands, extra guitar strings, deformed guitar, distorted face, heavy makeup, cartoon, oversaturated, harsh flash, blurry, text, watermark, logo",
+    "aspect_ratio": "9:16"
+  }
+}
