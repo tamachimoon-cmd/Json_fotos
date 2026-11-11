@@ -1,0 +1,37 @@
+{
+  "filename": "a4f05808e1e061d90655b95368811668.jpg",
+  "original_filename": "a4f05808e1e061d90655b95368811668.jpg",
+  "suggested_name": "bone-preto-cargo-bege-algemas-por-do-sol-arranha-ceus.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1Deplm7MgGaj43uL29y_x8kkCJXUl7moe",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-11T11:45:00Z",
+  "image_size": "735x1221",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, very long straight black hair with blunt wispy bangs falling past her chest, soft natural makeup with pink lips, gentle closed-mouth smile, looking directly at the camera",
+    "pose": "Sitting on the ground of a rooftop plaza with legs stretched forward toward the camera, left knee raised and bent, right leg extended long into the foreground, hands resting together in her lap at the waistband",
+    "clothing": {
+      "top": "Black sleeveless ribbed crop tank top with a high round neck, showing a sliver of midriff",
+      "bottom": "Loose baggy beige / khaki cargo-style parachute pants with gathered fabric at the ankles",
+      "footwear": "Chunky black-and-white high-top sneakers with thick white soles and black laces",
+      "accessories": "Black baseball cap, a pair of silver metal handcuffs on her wrists, silver metal ankle cuffs on both ankles joined by a long steel chain, rings on her fingers"
+    },
+    "setting": "Open rooftop or elevated plaza with large grey stone paving tiles and a low parapet wall; a city skyline behind her with tall glass skyscrapers on the left and a cluster of high-rise towers on the right, partly cloudy sky",
+    "lighting": "Golden hour sunset backlight, the sun glowing low between the buildings on the right, warm orange glare reflecting on the paving, soft fill light on her face, slight lens flare and haze",
+    "composition": "Vertical full-body shot from a low, close, wide-angle viewpoint at ground level, strong foreshortening that makes the sneakers and chain in the foreground look large, subject centered, skyscrapers rising tall on the left edge",
+    "style": "Photorealistic, AI-generated-looking cinematic urban fashion portrait, high detail, smooth skin rendering, dramatic wide-angle perspective",
+    "colors": "Warm orange and gold sunset tones, beige, black, white, silver metal, steel blue glass, soft pale blue sky",
+    "mood": "Edgy, playful and confident, urban streetwear with a provocative concept twist, warm dreamy sunset atmosphere"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, very long straight black hair with wispy bangs, soft natural makeup, pink lips, gentle smile, looking at the camera",
+    "clothing": "black baseball cap, black sleeveless ribbed crop tank top, loose baggy beige cargo parachute pants, chunky black-and-white high-top sneakers; silver handcuffs on her wrists and silver ankle cuffs connected by a long steel chain, rings on fingers",
+    "pose": "sitting on the ground with legs stretched toward the camera, one knee bent up, other leg extended into the foreground, hands resting together in her lap",
+    "environment": "rooftop plaza with large grey stone paving tiles and low parapet, city skyline with tall glass skyscrapers, partly cloudy sky",
+    "lighting": "golden hour sunset backlight, sun low between buildings, warm orange glow and reflections on the floor, soft fill on the face, subtle lens flare",
+    "camera": "ultra wide-angle lens, low ground-level angle close to the feet, strong foreshortening, full-body framing, deep focus",
+    "style": "photorealistic cinematic urban streetwear fashion editorial, high detail, natural skin texture, warm color grading",
+    "negative_prompt": "extra limbs, extra fingers, distorted hands, distorted feet, deformed face, blurry, cartoon, anime, oversaturated, plastic skin, text, watermark, logo",
+    "aspect_ratio": "3:5"
+  }
+}
