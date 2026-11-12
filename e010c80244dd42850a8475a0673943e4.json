@@ -1,0 +1,37 @@
+{
+  "filename": "e010c80244dd42850a8475a0673943e4.jpg",
+  "original_filename": "e010c80244dd42850a8475a0673943e4.jpg",
+  "suggested_name": "cropped-tank-california-moto-jeans-rasgado-muro-grafite.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1WlGrBmaW10d7aa7YO95EVDMRYWbJ7wlv",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-12T11:45:00Z",
+  "image_size": "736x1104",
+  "description": {
+    "subject": "Young woman, around early-to-mid 20s, light olive/tan skin, shoulder-length layered brown hair with warm caramel highlights tousled to one side, defined dark brows, soft makeup with nude-pink lips slightly parted, head tilted back slightly, gazing down at the camera with a confident sultry expression",
+    "pose": "Standing leaning her back and shoulder against a concrete wall, body angled slightly, head tilted back and to the side, right hand tucked into the front pocket of her jeans, left arm relaxed down by her side",
+    "clothing": {
+      "top": "White sleeveless cropped tank top with a deep notched V split at the round neckline, featuring a vintage red and black graphic of a cruiser motorcycle on a checkered flag with the script text 'California' and 'Have Confidence', exposing the midriff",
+      "bottom": "High-waisted dark wash black skinny/straight jeans with ripped distressed knees and frayed hems",
+      "footwear": "Not visible (frame cut above the feet)",
+      "accessories": "Small gold earring, thin black cord bracelet on the left wrist, several silver rings on fingers of both hands"
+    },
+    "setting": "Outdoor urban alley or underpass with a weathered grey concrete wall covered in black and red spray-painted graffiti tags; a dark window or opening at the top left and a second concrete wall receding into the background on the left",
+    "lighting": "Soft diffused overcast daylight, even and low-contrast, gentle shadows under the chin and along the wall, slight vignette",
+    "composition": "Vertical three-quarter body shot framed from the head down to the shins, subject slightly right of center against the wall, wall receding diagonally on the left for depth, eye-level to slightly low camera angle, shallow background blur on the far wall",
+    "style": "Photorealistic, AI-generated-looking urban street fashion portrait, high detail, editorial lifestyle photography with a muted desaturated color grade",
+    "colors": "Muted cool greys of concrete, crisp white top, deep red graphic and graffiti accents, black denim, warm brown hair and skin tones",
+    "mood": "Confident, cool and edgy, laid-back street style with a retro biker Americana vibe"
+  },
+  "prompt_json": {
+    "subject": "young woman with light olive skin, shoulder-length layered brown hair with caramel highlights tousled to one side, soft makeup, nude-pink lips slightly parted, head tilted back, confident sultry gaze at the camera",
+    "clothing": "white sleeveless cropped tank top with a notched V neckline and a vintage red-and-black motorcycle graphic with 'California' script text, high-waisted dark black ripped-knee jeans with frayed hems, small gold earring, thin black cord bracelet, multiple silver rings",
+    "pose": "leaning back against a concrete wall, head tilted back to the side, right hand in front jeans pocket, left arm relaxed at her side",
+    "environment": "urban alley with a weathered grey concrete wall covered in black and red graffiti tags, second wall receding into the background",
+    "lighting": "soft diffused overcast daylight, low contrast, gentle natural shadows, subtle vignette",
+    "camera": "85mm lens, three-quarter body framing from head to shins, eye-level slightly low angle, shallow depth of field on the background",
+    "style": "photorealistic urban street fashion editorial, high detail, natural skin texture, muted desaturated cool color grading with red accents",
+    "negative_prompt": "extra limbs, extra fingers, distorted hands, deformed face, blurry, cartoon, anime, oversaturated, plastic skin, garbled text on shirt, watermark, logo",
+    "aspect_ratio": "2:3"
+  }
+}
