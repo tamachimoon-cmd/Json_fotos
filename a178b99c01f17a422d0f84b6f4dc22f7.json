@@ -1,0 +1,37 @@
+{
+  "filename": "a178b99c01f17a422d0f84b6f4dc22f7.jpg",
+  "original_filename": "a178b99c01f17a422d0f84b6f4dc22f7.jpg",
+  "suggested_name": "calca-cargo-verde-cropped-preto-tenis-branco-estudio.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1t9i6jAY0EheZ-g2GNmtXfx6B3DwkKNed",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-13T11:40:00Z",
+  "image_size": "736x1301",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, fair skin, very long straight jet-black hair with loose strands blowing to one side, defined brows, soft natural makeup with pink lips slightly parted, calm neutral expression looking directly at the camera; small dark ornamental tattoo on the lower right abdomen near the hip",
+    "pose": "Standing full body in a relaxed stance, weight on one leg with the other foot slightly forward as if mid-step, right hand tucked into the front pocket of her pants, left arm hanging loosely at her side, head slightly tilted",
+    "clothing": {
+      "top": "Charcoal black fitted cropped tank top with a scoop neckline and thin straps, exposing the midriff",
+      "bottom": "Loose baggy olive-green cargo pants with a low-rise waist, large flap side cargo pockets, dangling black strap details on both legs and cinched ankles bunching over the shoes",
+      "footwear": "Chunky white low-top sneakers",
+      "accessories": "None visible"
+    },
+    "setting": "Minimal indoor studio or empty room with plain light grey/off-white walls, a bright window edge on the far left and a smooth pale concrete floor",
+    "lighting": "Soft natural daylight from a window on the left, casting sharp geometric window-shaped light patches and shadows on the right wall and floor, gentle shadows on the subject",
+    "composition": "Vertical full-body shot from head to feet, subject centered, eye-level camera, lots of negative space on the walls, clean minimal background",
+    "style": "Photorealistic, AI-generated-looking streetwear fashion lookbook photo, high detail, clean editorial minimalism with a soft muted grade",
+    "colors": "Neutral light greys and whites of the room, charcoal black top, olive-green cargo pants, bright white sneakers, black hair and fair skin tones",
+    "mood": "Calm, cool and effortless, casual urban streetwear vibe"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, very long straight jet-black hair with strands blowing to the side, soft natural makeup, pink lips slightly parted, calm neutral gaze at the camera, small dark ornamental tattoo on lower right abdomen",
+    "clothing": "charcoal black fitted cropped scoop-neck tank top, loose baggy low-rise olive-green cargo pants with flap side pockets and dangling black straps, cinched ankles, chunky white low-top sneakers",
+    "pose": "standing full body, relaxed stance mid-step, right hand in front pants pocket, left arm relaxed at her side, head slightly tilted",
+    "environment": "minimal empty studio room with plain light grey walls, bright window on the left, smooth pale concrete floor",
+    "lighting": "soft natural window daylight from the left, geometric window light patches and shadows on the wall and floor",
+    "camera": "50mm lens, full-body vertical framing head to feet, eye-level, subject centered with negative space",
+    "style": "photorealistic streetwear fashion lookbook, high detail, natural skin texture, clean minimalist editorial, soft muted color grading",
+    "negative_prompt": "extra limbs, extra fingers, distorted hands, deformed face, blurry, cartoon, anime, oversaturated, plastic skin, cluttered background, watermark, logo, text",
+    "aspect_ratio": "9:16"
+  }
+}
