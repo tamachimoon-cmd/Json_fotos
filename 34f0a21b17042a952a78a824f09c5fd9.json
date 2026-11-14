@@ -1,0 +1,37 @@
+{
+  "filename": "34f0a21b17042a952a78a824f09c5fd9.jpg",
+  "original_filename": "34f0a21b17042a952a78a824f09c5fd9.jpg",
+  "suggested_name": "jaqueta-jeans-cropped-branco-fundo-cinza.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1SexEJX0Oz-VwoZvQYgZrnJU69Ack8PS6",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-14T11:52:42Z",
+  "image_size": "736x1008",
+  "description": {
+    "subject": "Young woman, around early-to-mid 20s, light warm tan skin, very long voluminous wavy dark brown/black hair with tousled strands falling over both shoulders and partly over her right shoulder, defined dark brows, winged eyeliner, glossy nude-mauve lips, small rings on her fingers",
+    "pose": "Standing, body angled slightly to her right, hips shifted with left leg forward, both thumbs hooked into the front pockets of her jeans, denim jacket slipped off her shoulders and hanging at her elbows, chin slightly raised, lips slightly parted, confident direct gaze into the camera",
+    "clothing": {
+      "top": "White thin-strap cropped camisole showing bare midriff",
+      "bottom": "Medium-wash blue high-waisted wide-leg / baggy jeans with faded whiskering",
+      "footwear": "Not visible",
+      "accessories": "Oversized medium-wash blue denim trucker jacket with chest flap pockets worn off the shoulders, small gold rings on several fingers"
+    },
+    "setting": "Plain seamless light grey / off-white studio backdrop with no props",
+    "lighting": "Soft diffused studio lighting from the front-left, gentle shadows on the right side of the body, even skin highlights, clean neutral tones",
+    "composition": "Vertical three-quarter shot from the top of the head to mid-shin, subject centered and filling most of the frame, eye-level camera, ample negative space on the right side of the background; small white four-point sparkle mark in the bottom-right corner",
+    "style": "Photorealistic fashion editorial / denim campaign studio portrait, Canadian-tuxedo look, polished retouching, likely AI-generated",
+    "colors": "Light grey background, multiple shades of denim blue, crisp white, dark brown/black hair, warm tan skin, small gold accents",
+    "mood": "Confident, cool, effortless, fashion-forward, slightly sultry"
+  },
+  "prompt_json": {
+    "subject": "young woman with light warm tan skin, very long voluminous wavy dark brown hair falling over her shoulders, defined dark brows, winged eyeliner, glossy nude-mauve lips slightly parted, confident direct gaze at camera",
+    "clothing": "white thin-strap cropped camisole, oversized medium-wash denim trucker jacket worn off the shoulders hanging at the elbows, medium-wash high-waisted baggy wide-leg jeans, small gold rings",
+    "pose": "standing, body angled slightly, hips shifted with one leg forward, thumbs hooked into the front jean pockets, chin slightly raised",
+    "environment": "plain seamless light grey studio backdrop, no props",
+    "lighting": "soft diffused front-left studio light, gentle shadows, clean neutral tones",
+    "camera": "50mm lens, eye level, vertical three-quarter shot from head to mid-shin, sharp focus on face and eyes, high resolution",
+    "style": "photorealistic fashion editorial denim campaign portrait, polished retouching, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry, cartoon, anime, oversaturated, plastic skin, busy background, text, watermark, logo",
+    "aspect_ratio": "3:4"
+  }
+}
