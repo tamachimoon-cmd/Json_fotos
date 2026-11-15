@@ -1,0 +1,37 @@
+{
+  "filename": "4808a721632e57553cdc277046a12232.jpg",
+  "original_filename": "4808a721632e57553cdc277046a12232.jpg",
+  "suggested_name": "goth-neon-alley-black-bob.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "115gfZzDSCHt0V3aLMsMW1ZdtOPfGwixC",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-15T11:01:17Z",
+  "image_size": "576x1024",
+  "description": {
+    "subject": "Young woman with pale fair skin and a gothic look, black chin-length bob haircut with blunt bangs, dark smoky eye makeup, black lipstick, small hoop earrings, slim toned figure",
+    "pose": "Standing and leaning her back and shoulder against a brick wall, hands tucked into the front pockets of her shorts, one leg slightly forward, head tilted slightly down looking at the camera with a cool, confident expression",
+    "clothing": {
+      "top": "Black cropped leather-style biker jacket with silver zippers, worn open over a black cropped tank top showing her midriff",
+      "bottom": "Black high-waisted denim cut-off shorts with frayed, distressed hems and a silver chain hanging from the belt loop",
+      "footwear": "Black boots with black knee-high socks or leg warmers, partially visible at the bottom of the frame",
+      "accessories": "Black choker with a silver O-ring, small hoop earrings, silver wallet chain on the shorts"
+    },
+    "setting": "Narrow city alley at night, dark brick wall covered in white and pink graffiti on the left, glowing neon signs on the right including a pink cat-face sign, a vertical pink 'BAR' sign and a blue sign with Japanese katakana, wet reflective pavement, a trash bin and distant blurred street lights and figures in the background",
+    "lighting": "Night-time neon lighting, strong magenta and pink light washing over the wall and her skin, cool blue and cyan accents from signs and reflections, colorful reflections on the wet ground, soft bokeh from distant lights",
+    "composition": "Vertical full-body low-angle shot from below, subject on the left-center leaning on the wall, wall receding diagonally into the background, neon signs stacked on the upper right, legs dominating the lower half of the frame, shallow depth of field on the background",
+    "style": "Photorealistic cyberpunk / neon-noir street fashion portrait, gothic alternative aesthetic, likely AI-generated, high detail and saturated colors",
+    "colors": "Deep black, magenta, hot pink, violet, electric blue, cyan, pale skin tones, white graffiti accents",
+    "mood": "Edgy, moody, confident, urban nightlife, rebellious"
+  },
+  "prompt_json": {
+    "subject": "young pale-skinned goth woman with a black chin-length bob and blunt bangs, dark smoky eyes, black lipstick, small hoop earrings, cool confident gaze at camera",
+    "clothing": "black cropped leather biker jacket open over a black cropped tank top, black high-waisted distressed denim cut-off shorts with frayed hems and silver wallet chain, black choker with silver O-ring, black boots with knee-high socks",
+    "pose": "leaning back against a graffiti brick wall, hands in front pockets of her shorts, one leg slightly forward, head tilted slightly down",
+    "environment": "narrow neon-lit city alley at night, brick wall with white and pink graffiti, pink cat-face neon sign, vertical pink BAR neon sign, blue Japanese katakana neon sign, wet reflective pavement, trash bin, distant blurred lights",
+    "lighting": "magenta and pink neon light on skin and wall, cool blue and cyan accent light, colorful reflections on wet ground, soft background bokeh",
+    "camera": "low-angle full-body vertical shot, 24-35mm lens, shallow depth of field on background, sharp focus on subject, high resolution",
+    "style": "photorealistic cyberpunk neon-noir street fashion portrait, gothic alternative aesthetic, saturated colors, detailed textures",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, extra legs, distorted face, blurry, cartoon, anime, plastic skin, daylight, dull colors, text errors, watermark, logo",
+    "aspect_ratio": "9:16"
+  }
+}
