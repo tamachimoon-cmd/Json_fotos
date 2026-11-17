@@ -1,0 +1,37 @@
+{
+  "filename": "56ee77e1db9ddc7739bc0f0dea77866c.jpg",
+  "original_filename": "56ee77e1db9ddc7739bc0f0dea77866c.jpg",
+  "suggested_name": "cropped-preto-jeans-baggy-muro-grafite.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1nQShQCAMRO6RKZRVT-phZU3nz2p-5Dop",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-17T10:41:17Z",
+  "image_size": "736x1104",
+  "description": {
+    "subject": "Young woman, around early 20s, fair skin, shoulder-length voluminous curly auburn / copper-red hair, defined dark eyebrows, dark eyeliner, red lips, thin necklace chain at the neck",
+    "pose": "Standing leaning her back and shoulder against a graffiti-covered wall, right arm raised with the hand resting on top of her head in her hair, left arm bent across her waist under the chest, left leg bent with the knee lifted forward and the foot pressed flat against the wall, right leg straight supporting her weight, chin raised and head tilted back, gazing toward the camera with half-lidded eyes",
+    "clothing": {
+      "top": "Black cropped tank top / bralette-style crop top with wide straps, exposing the midriff",
+      "bottom": "Light-to-medium wash blue baggy wide-leg jeans with a low-rise fit, side cargo-style pocket and loose hems",
+      "footwear": "Black and white low-top sneakers (panda colorway, Nike Dunk style) with white socks",
+      "accessories": "Red and dark beaded bracelets on the raised wrist, thin chain necklace, sunglasses tucked into her hair on top of the head"
+    },
+    "setting": "Outdoor urban sidewalk alongside a long concrete wall covered in colorful graffiti murals stretching into the distance, dusty pavement path in the foreground, small weeds and grass growing at the base of the wall, trees and a sliver of blue sky in the upper-left background",
+    "lighting": "Bright natural daylight, strong direct sun from the front-left creating crisp highlights on skin and denim and hard shadows on the wall, sunny clear day",
+    "composition": "Vertical full-body shot from a low angle, subject placed on the right side of the frame against the wall, strong leading lines of the wall and sidewalk receding into the left background, shallow depth of field with the far wall and trees softly blurred",
+    "style": "Photorealistic street-style fashion editorial photography, Y2K / streetwear aesthetic, high detail, crisp and slightly contrasted color grading",
+    "colors": "Faded denim blue, black, white, copper-red hair, warm skin tones, multicolored graffiti with red, teal, pink, grey and white, beige concrete sidewalk, green foliage, blue sky",
+    "mood": "Confident, cool, carefree, sunny urban vibe"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair skin, shoulder-length voluminous curly auburn copper-red hair, dark eyeliner, red lips, chin raised, half-lidded confident gaze at camera",
+    "clothing": "black wide-strap cropped tank top showing midriff, light blue low-rise baggy wide-leg jeans with side pocket, black and white panda low-top sneakers with white socks, red beaded bracelets, thin chain necklace, sunglasses pushed up in her hair",
+    "pose": "leaning back against a wall, right hand resting on top of her head in her hair, left arm across her waist, left knee bent with the foot planted flat against the wall, right leg straight",
+    "environment": "sunny urban sidewalk beside a long concrete wall covered in colorful graffiti murals receding into the distance, weeds at the base of the wall, trees and blue sky in the background",
+    "lighting": "bright direct midday sunlight, crisp highlights and hard shadows on the wall, clear sunny day",
+    "camera": "50mm lens, low angle, vertical full-body shot, subject on the right third, shallow depth of field with blurred background, sharp focus on face, high resolution",
+    "style": "photorealistic street-style fashion editorial, Y2K streetwear aesthetic, natural skin texture, detailed curly hair and denim texture",
+    "negative_prompt": "extra fingers, distorted hands, extra limbs, distorted face, blurry subject, cartoon, anime, oversaturated, plastic skin, text, watermark, logo, empty plain wall, night scene",
+    "aspect_ratio": "2:3"
+  }
+}
