@@ -1,0 +1,37 @@
+{
+  "filename": "769e60dda92fb8e496e45770f3cb3730 (1).jpg",
+  "original_filename": "769e60dda92fb8e496e45770f3cb3730 (1).jpg",
+  "suggested_name": "regata-preta-camisa-xadrez-passarela-metalica.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1Sli73Bj_OPgb_DbHhLgs7b7ECxxyYCWv",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-18T10:44:38Z",
+  "image_size": "736x1308",
+  "description": {
+    "subject": "Young woman, around mid-to-late 20s, light tan / olive skin, very long wavy dark brown to black hair worn loose with a center part falling over both shoulders, defined dark eyebrows, full lips with nude-mauve lipstick, small oval tinted sunglasses with thin metal frames",
+    "pose": "Standing and walking toward the camera along a covered walkway, right arm raised high with fingers hooked into the wire mesh wall beside her, left arm relaxed down at her side, body slightly angled, chin level, calm confident expression looking toward the camera through the sunglasses",
+    "clothing": {
+      "top": "Black fitted scoop-neck sleeveless tank top / bodysuit",
+      "bottom": "Black denim high-waisted shorts with a red-and-black buffalo plaid flannel shirt tied around the waist, sleeves knotted at the front",
+      "footwear": "Not visible",
+      "accessories": "Small oval tinted sunglasses with thin metal frames, long silver chain necklace with an inverted triangle pendant, stacked silver and metallic bangle bracelets on the left wrist"
+    },
+    "setting": "Outdoor elevated pedestrian walkway or bridge enclosed by tall grey metal wire-mesh panels and a slatted metal roof, concrete floor, modern glass buildings, trees and a road visible out of focus in the background",
+    "lighting": "Bright natural sunlight, hard sun casting a strong grid pattern of mesh shadows across her skin, clothing and the floor, high contrast with bright highlights",
+    "composition": "Vertical full-body-to-thigh shot, subject centered, walkway receding into the background on the right creating a strong perspective line, mesh wall filling the left side of the frame, shallow depth of field on the background",
+    "style": "Photorealistic street-style fashion portrait, grunge / 90s-inspired casual look, editorial lifestyle photography, likely AI-generated polish",
+    "colors": "Black, red and black plaid, cool grey metal, pale concrete, soft blue sky and glass tones, warm tan skin tones",
+    "mood": "Confident, cool, urban, edgy and relaxed"
+  },
+  "prompt_json": {
+    "subject": "young woman with light tan olive skin, very long wavy dark brown hair with center part falling over shoulders, defined dark eyebrows, nude-mauve lips, small oval tinted metal-frame sunglasses, confident calm expression",
+    "clothing": "black fitted scoop-neck sleeveless tank top, black high-waisted denim shorts, red and black buffalo plaid flannel shirt tied around the waist, long silver chain necklace with inverted triangle pendant, stacked silver bangles on left wrist",
+    "pose": "walking toward the camera, right arm raised high gripping the wire mesh wall, left arm relaxed at her side",
+    "environment": "elevated pedestrian walkway enclosed by tall grey metal wire-mesh panels and slatted metal roof, concrete floor, blurred modern glass buildings and trees in the background",
+    "lighting": "bright midday sunlight, hard grid-pattern mesh shadows across skin, clothes and floor, high contrast",
+    "camera": "50mm lens, eye-level angle, vertical full-body to mid-thigh framing, strong perspective lines, shallow depth of field background, high resolution",
+    "style": "photorealistic street-style fashion editorial, 90s grunge casual aesthetic, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry subject, cartoon, anime, oversaturated, plastic skin, heavy makeup, missing mesh shadows, text, watermark, logo",
+    "aspect_ratio": "9:16"
+  }
+}
