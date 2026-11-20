@@ -1,0 +1,37 @@
+{
+  "filename": "e6587acb78700420adec9e7fe9c40bc6 (1).jpg",
+  "original_filename": "e6587acb78700420adec9e7fe9c40bc6 (1).jpg",
+  "suggested_name": "por-do-sol-praia-cropped-branco-short-jeans.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1swFM35jEBJjdVx3A8vD6zTY7owJE94j2",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-20T10:57:55Z",
+  "image_size": "735x1105",
+  "description": {
+    "subject": "Young woman, around early 20s, light sun-kissed skin, very long straight-to-slightly-wavy light brown hair with golden highlights worn loose, center part, strands blowing in the breeze, natural makeup, soft smile",
+    "pose": "Standing with her back and left side turned toward the camera, looking back over her left shoulder directly at the camera, arms relaxed down at her sides, warm gentle smile",
+    "clothing": {
+      "top": "White textured smocked/shirred cropped camisole with thin spaghetti straps and a ruffled lettuce-edge hem",
+      "bottom": "Light-wash blue high-waisted denim shorts with frayed raw hems, back pocket visible",
+      "footwear": "Not visible",
+      "accessories": "None clearly visible"
+    },
+    "setting": "Coastal roadside path at sunset, paved road and sidewalk receding on the right, low green shrubs and plants on the left, ocean and shoreline in the blurred background, silhouettes of palm trees and buildings on the right",
+    "lighting": "Golden-hour backlight from the setting sun low on the horizon behind her left side, strong warm rim light glowing through her hair, sun flare, soft warm fill on her face",
+    "composition": "Vertical three-quarter shot from mid-thigh up, subject centered slightly right, sun positioned in the upper left behind her, shallow depth of field with heavily blurred bokeh background",
+    "style": "Photorealistic lifestyle/portrait photography, warm summer beach aesthetic, cinematic golden-hour look, likely AI-generated polish",
+    "colors": "Warm orange, amber and golden yellow sky, white top, light blue denim, sun-kissed skin tones, muted green foliage, soft grey road",
+    "mood": "Warm, carefree, romantic, summery and relaxed"
+  },
+  "prompt_json": {
+    "subject": "young woman with light sun-kissed skin, very long light brown hair with golden highlights blowing in the breeze, center part, natural makeup, soft warm smile",
+    "clothing": "white smocked cropped camisole with thin spaghetti straps and ruffled hem, light-wash high-waisted denim shorts with frayed hems",
+    "pose": "back turned three-quarters to the camera, looking back over her left shoulder at the camera, arms relaxed at her sides",
+    "environment": "coastal roadside path at sunset, ocean and shoreline blurred in the background, palm tree silhouettes, low shrubs, paved road receding",
+    "lighting": "golden hour backlight, setting sun behind her, glowing rim light through the hair, gentle sun flare, warm tones",
+    "camera": "85mm lens, eye-level angle, vertical framing from mid-thigh up, shallow depth of field, creamy bokeh, high resolution",
+    "style": "photorealistic lifestyle portrait, cinematic warm summer aesthetic, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry subject, cartoon, anime, oversaturated, plastic skin, heavy makeup, harsh midday light, text, watermark, logo",
+    "aspect_ratio": "2:3"
+  }
+}
