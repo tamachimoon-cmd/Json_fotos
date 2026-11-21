@@ -1,0 +1,37 @@
+{
+  "filename": "8ac8d99f379b7388b8b88f08b0b58d0c.jpg",
+  "original_filename": "8ac8d99f379b7388b8b88f08b0b58d0c.jpg",
+  "suggested_name": "turtleneck-preto-blazer-branco-botas-cafe.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1fW9KZBonFT8Wx1PAIRvD1oJRWB3BAkdn",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-21T11:00:08Z",
+  "image_size": "683x1024",
+  "description": {
+    "subject": "Young woman, around early 20s, fair skin with rosy blush, very long voluminous wavy dark brown hair, light blue eyes, defined brows, full glossy pink lips, polished makeup",
+    "pose": "Seated on a dark sofa with legs crossed, torso turned slightly to her left, right hand raised running fingers through her hair at the side of her head, gazing off-camera to her left with lips slightly parted",
+    "clothing": {
+      "top": "Black ribbed fitted turtleneck sweater under an oversized white/off-white textured lightweight jacket or shirt worn open, sleeves long and loose",
+      "bottom": "White mini skirt with a slit at the front",
+      "footwear": "Black glossy leather over-the-knee boots",
+      "accessories": "Black sunglasses pushed up on top of the head, small gold hoop earrings, thin gold chain necklace with round gold coin pendant, cream/beige leather shoulder bag with gold YSL-style logo and chain strap resting on the table"
+    },
+    "setting": "Upscale indoor café or lounge, dark upholstered sofa, round dark glossy side table in the lower left, large dark-framed windows and glass doors in the background, blurred greenery and interior shelves",
+    "lighting": "Soft diffused natural light from the windows, gentle highlights on face and hair, muted contrast, slightly dim moody ambience",
+    "composition": "Vertical medium-full shot from top of the head to knees/boots, subject centered, bag and table framing the lower left, background softly out of focus",
+    "style": "Photorealistic fashion/lifestyle portrait, luxury 'old money' chic aesthetic, likely AI-generated polish with smooth skin rendering",
+    "colors": "Black, white and cream dominant palette, gold accents, warm skin tones, dark brown hair, muted grey-green background",
+    "mood": "Elegant, confident, relaxed, sophisticated and slightly dreamy"
+  },
+  "prompt_json": {
+    "subject": "young woman with fair skin and rosy blush, very long voluminous wavy dark brown hair, light blue eyes, full glossy pink lips, polished makeup",
+    "clothing": "black ribbed fitted turtleneck, oversized open white textured lightweight jacket, white mini skirt with front slit, black glossy over-the-knee leather boots, black sunglasses on top of head, small gold hoop earrings, gold coin pendant necklace",
+    "pose": "sitting on a dark sofa with legs crossed, one hand running through her hair, looking away to the side with lips slightly parted",
+    "environment": "upscale café lounge interior, dark upholstered sofa, round dark glossy side table with a cream leather designer shoulder bag with gold hardware, large dark-framed windows in the blurred background",
+    "lighting": "soft diffused window light, gentle highlights on face and hair, muted moody tones",
+    "camera": "50mm lens, slightly high eye-level angle, vertical framing from head to knees, shallow depth of field, high resolution",
+    "style": "photorealistic luxury fashion lifestyle portrait, old money chic aesthetic, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra limbs, distorted face, asymmetrical eyes, blurry subject, cartoon, anime, oversaturated, plastic skin, harsh flash, text, watermark, logo distortion",
+    "aspect_ratio": "2:3"
+  }
+}
