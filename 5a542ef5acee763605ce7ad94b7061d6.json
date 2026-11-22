@@ -1,0 +1,37 @@
+{
+  "filename": "5a542ef5acee763605ce7ad94b7061d6.jpg",
+  "original_filename": "5a542ef5acee763605ce7ad94b7061d6.jpg",
+  "suggested_name": "mechas-vermelhas-regata-preta-cafe-onibus-londres.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1JXe8zSlQaiEASIU-BcsBhJuPtPz_PzVb",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-22T10:57:48Z",
+  "image_size": "735x919",
+  "description": {
+    "subject": "Young woman, around early-to-mid 20s, light olive / tan skin, long wavy black hair with vivid red-dyed underlayer and ends, brown eyes, defined dark brows, warm brown-rose lipstick, natural glowing makeup, small silver hoop earrings",
+    "pose": "Sitting sideways on a low stone ledge with knees bent and raised, left hand holding an iced coffee cup at knee height, right hand resting relaxed on her thigh, head turned to her left looking off-camera with a soft closed-lip smile",
+    "clothing": {
+      "top": "Black fitted scoop-neck tank top",
+      "bottom": "Dark indigo wide-leg baggy denim jeans",
+      "footwear": "Black chunky lace-up leather combat boots",
+      "accessories": "Large black slouchy leather shoulder bag with buckle strap, layered thin silver necklaces with a small star pendant, small silver hoop earrings, several silver rings, dark nail polish, iced Starbucks coffee cup with green straw"
+    },
+    "setting": "Outdoor city sidewalk with a classic red double-decker bus passing in the background, ornate black iron lamp post on the right, blurred pedestrians in dark coats on the left, light-colored stone buildings, London-like urban street",
+    "lighting": "Warm natural late-afternoon / golden-hour light from the left, soft rim light on hair and shoulder, gentle shadows, bright highlights on the bus and street",
+    "composition": "Vertical full-body seated shot, subject slightly right of center in the foreground, shallow depth of field with blurred background, eye-level camera, red bus spanning the upper background",
+    "style": "Photorealistic street-style lifestyle portrait, cinematic urban travel aesthetic, possible AI-generated polish, high detail on hair and denim texture",
+    "colors": "Black and dark indigo dominant outfit, vivid red hair accents echoing the red bus, warm beige stone, golden light, caramel coffee tones, green straw accent",
+    "mood": "Relaxed, confident, carefree, cosmopolitan city vibe"
+  },
+  "prompt_json": {
+    "subject": "young woman with light olive tan skin, long wavy black hair with vivid red-dyed underlayer, brown eyes, defined dark brows, warm rose lipstick, soft closed-lip smile, small silver hoop earrings",
+    "clothing": "black fitted scoop-neck tank top, dark indigo wide-leg baggy jeans, black chunky lace-up combat boots, large black slouchy leather shoulder bag, layered silver necklaces with tiny star pendant, silver rings, dark nail polish",
+    "pose": "sitting sideways on a low stone ledge with knees raised, holding an iced caramel coffee in a clear cup with green straw, other hand resting on her thigh, looking away to the side",
+    "environment": "London city street, red double-decker bus passing behind, ornate black iron lamp post, blurred pedestrians in dark coats, light stone buildings",
+    "lighting": "warm golden-hour sunlight from the left, soft rim light on hair, gentle shadows",
+    "camera": "50mm lens, eye-level angle, vertical full-body framing, shallow depth of field, high resolution",
+    "style": "photorealistic street-style lifestyle portrait, cinematic urban travel aesthetic, natural skin texture, detailed hair strands and denim texture",
+    "negative_prompt": "extra fingers, distorted hands, extra limbs, distorted face, asymmetrical eyes, blurry subject, cartoon, anime, oversaturated, plastic skin, harsh flash, text, watermark, logo distortion",
+    "aspect_ratio": "4:5"
+  }
+}
