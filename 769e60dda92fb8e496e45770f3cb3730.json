@@ -1,0 +1,37 @@
+{
+  "filename": "769e60dda92fb8e496e45770f3cb3730.jpg",
+  "original_filename": "769e60dda92fb8e496e45770f3cb3730.jpg",
+  "suggested_name": "passarela-grade-camisa-xadrez-cintura.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1Rh6uKC5L_HltzwJyLPVrZpFl6T1ZzW8X",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-23T10:57:15Z",
+  "image_size": "736x1308",
+  "description": {
+    "subject": "Young woman, around mid-to-late 20s, light tan skin, very long wavy dark brown/black hair worn loose with a center part falling past the chest, defined dark eyebrows, full lips with nude-mauve lipstick, small oval tinted sunglasses with thin silver frames",
+    "pose": "Standing and walking toward the camera, right arm raised overhead with fingers hooked into the metal mesh wall, left arm relaxed down at her side, body slightly angled, chin level, confident serious expression looking toward the camera through the sunglasses",
+    "clothing": {
+      "top": "Black fitted scoop-neck tank top / bodysuit",
+      "bottom": "Black denim shorts with a red-and-black buffalo-check flannel shirt tied around the waist",
+      "footwear": "Not visible",
+      "accessories": "Small oval silver-framed sunglasses with dark lenses, long silver chain necklace with an inverted triangle pendant, stacked silver and bead bracelets on the left wrist"
+    },
+    "setting": "Outdoor enclosed pedestrian footbridge/walkway with tall grey metal grid mesh walls and a slatted metal roof, concrete floor, modern glass office building and some greenery visible in the background on the right",
+    "lighting": "Bright direct daylight sunlight from the side, casting a strong grid-pattern shadow from the mesh across her body, face and the floor, high contrast with crisp highlights",
+    "composition": "Vertical full-body-to-thigh shot, subject centered, camera at roughly chest height, strong one-point perspective of the walkway receding to the right background, mesh wall framing the left side",
+    "style": "Photorealistic urban street-style fashion portrait, editorial lifestyle aesthetic, likely AI-generated polish, high detail on hair and shadow patterns",
+    "colors": "Black, red and black plaid, cool greys of metal and concrete, pale blue sky, warm tan skin tones, small green accents from plants",
+    "mood": "Confident, edgy, cool, grunge-urban attitude"
+  },
+  "prompt_json": {
+    "subject": "young woman with light tan skin, very long wavy dark brown hair with center part, defined eyebrows, nude-mauve lips, small oval silver-framed dark-lens sunglasses, serious confident expression",
+    "clothing": "black fitted scoop-neck tank top, black denim shorts, red and black buffalo-check flannel shirt tied around the waist, long silver chain necklace with inverted triangle pendant, stacked silver and bead bracelets on left wrist",
+    "pose": "walking toward camera, right arm raised overhead gripping the metal mesh wall, left arm relaxed at her side",
+    "environment": "enclosed pedestrian footbridge with tall grey metal grid mesh walls and slatted roof, concrete floor, modern glass building and greenery in the background",
+    "lighting": "bright hard side sunlight casting a sharp grid-shadow pattern across her body and the floor, high contrast daylight",
+    "camera": "35mm lens, chest-height angle, vertical full-body to mid-thigh framing, deep perspective of the walkway, sharp focus on subject, high resolution",
+    "style": "photorealistic urban street-style fashion editorial, grunge-chic, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, blurry, cartoon, anime, oversaturated, plastic skin, flat lighting, crowded background, text, watermark, logo",
+    "aspect_ratio": "9:16"
+  }
+}
