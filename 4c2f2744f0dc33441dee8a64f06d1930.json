@@ -1,0 +1,37 @@
+{
+  "filename": "4c2f2744f0dc33441dee8a64f06d1930.jpg",
+  "original_filename": "4c2f2744f0dc33441dee8a64f06d1930.jpg",
+  "suggested_name": "bone-preto-porta-grafite-piscadela.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1SvDB8nwrXr9574-2GRukpTEGA6aRvVYa",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-24T11:03:04Z",
+  "image_size": "577x1024",
+  "description": {
+    "subject": "Young East Asian woman, around early 20s, slim build, fair skin, long straight-to-slightly-wavy black hair worn loose with wispy strands across the face, dark eyebrows, soft natural makeup with rosy pouted lips",
+    "pose": "Standing facing the camera, slightly leaning forward, both hands tucked into her pants pockets, head tilted slightly, winking with her left eye while making a playful pouting/kissing face, looking straight at the camera",
+    "clothing": {
+      "top": "Black short-sleeve fitted crop T-shirt with crew neck, showing the midriff",
+      "bottom": "Black loose high-waisted pants with side pockets",
+      "footwear": "Not visible",
+      "accessories": "Black baseball cap, dark brown leather shoulder bag with a long strap worn over her right shoulder"
+    },
+    "setting": "Night-time urban street, standing in front of a closed corrugated metal roll-up shutter covered in large black graffiti tags, pavement visible at the bottom, a vertical metal frame on the left edge",
+    "lighting": "Harsh direct on-camera flash at night, bright frontal illumination on the subject and shutter, strong dark shadow of the subject cast on the shutter behind her right side, dark falloff at the edges",
+    "composition": "Vertical shot from a slightly high angle, framed from head to upper thighs, subject centered, slight wide-angle distortion, graffiti shutter filling the background; small 'Ai' watermark in the top-left corner",
+    "style": "Photorealistic candid flash street photography, Y2K / grunge Korean-Japanese street-style aesthetic, likely AI-generated",
+    "colors": "Mostly black and grey: black outfit and cap, silver-grey metal shutter, black graffiti, pale skin tones, rosy pink lips, brown leather bag",
+    "mood": "Playful, flirty, cool, edgy urban night vibe"
+  },
+  "prompt_json": {
+    "subject": "young East Asian woman with fair skin, long black hair loose with wispy strands across the face, soft natural makeup, rosy pouted lips, winking one eye playfully at the camera",
+    "clothing": "black baseball cap, black fitted short-sleeve crop T-shirt showing midriff, black loose high-waisted pants, dark brown leather shoulder bag with long strap",
+    "pose": "standing facing the camera, leaning slightly forward, hands in pants pockets, head slightly tilted, wink and pouting kiss face",
+    "environment": "night city street, closed corrugated metal roll-up shutter covered in large black graffiti tags, pavement below",
+    "lighting": "harsh direct on-camera flash at night, bright frontal light, hard shadow cast on the shutter behind her, dark vignette edges",
+    "camera": "28mm wide-angle lens, slightly high angle, vertical framing from head to upper thighs, sharp focus on subject, high resolution",
+    "style": "photorealistic candid flash street photography, Y2K grunge Asian street-style, natural skin texture, detailed hair strands",
+    "negative_prompt": "extra fingers, distorted hands, extra arms, distorted face, asymmetric eyes, blurry, cartoon, anime, oversaturated, plastic skin, daylight, colorful outfit, text, watermark, logo",
+    "aspect_ratio": "9:16"
+  }
+}
