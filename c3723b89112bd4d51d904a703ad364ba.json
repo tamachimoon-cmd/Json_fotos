@@ -1,0 +1,37 @@
+{
+  "filename": "c3723b89112bd4d51d904a703ad364ba.jpg",
+  "original_filename": "c3723b89112bd4d51d904a703ad364ba.jpg",
+  "suggested_name": "camiseta-moto-jeans-rasgado-por-do-sol-gramado.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1-_kYY5N5QaUcz4FpsNwIFhFfjdvYx4zq",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-25T10:58:35Z",
+  "image_size": "594x1024",
+  "description": {
+    "subject": "Young woman, around early 20s, fair smooth skin, very long straight platinum-blonde hair falling past her chest over her left shoulder. She has full lips with soft pink-nude lipstick and is wearing round mirrored sunglasses.",
+    "pose": "She sits cross-legged on the grass, her body facing the camera and her head turned slightly to her left as she looks off-frame. Her right hand is raised to her lips, fingertips touching her lower lip in a thoughtful gesture, and her left hand rests loosely near her ankle.",
+    "clothing": {
+      "top": "Heather-grey short-sleeved crew-neck t-shirt with a large black-and-grey print of a classic cruiser motorcycle across the chest, sleeves slightly rolled.",
+      "bottom": "Light-wash blue skinny jeans with heavy distressing, including large ripped holes at both knees and frayed raw hems at the ankles.",
+      "footwear": "Dark brown leather ankle boots with a slightly worn finish, one showing a metallic bronze-toned panel at the side.",
+      "accessories": "Round gold-rimmed sunglasses with orange-amber mirrored lenses, and a gold wristwatch with a white dial on her left wrist."
+    },
+    "setting": "Outdoors on a grassy lawn at sunset, with a large leafy bush or hedge full of dark green leaves and small pale blossoms directly behind her. On the left, a soft blurred horizon shows the sun low in the sky.",
+    "lighting": "Warm golden-hour backlight and sidelight from the setting sun at the left, putting a glowing rim light on her hair, shoulders and the grass tips. Her face and front are lit softly and evenly, with a warm orange cast over the whole scene.",
+    "composition": "Vertical full-body shot from slightly above eye level, with the subject centered and filling most of the frame. Shallow depth of field blurs the background and the foreground grass, and the bright sun flare sits in the lower-left background.",
+    "style": "Polished lifestyle and fashion portrait photography with a cinematic, heavily color-graded look and creamy bokeh, similar to an edited Instagram influencer photo.",
+    "colors": "Warm palette of golden orange, amber and deep olive green, contrasted with the cool light blue of the denim, the neutral grey of the t-shirt, platinum-blonde hair and dark brown boots.",
+    "mood": "Relaxed, dreamy and contemplative, with a casual, slightly edgy biker-inspired attitude softened by the romantic sunset glow."
+  },
+  "prompt_json": {
+    "subject": "Young woman, early 20s, fair smooth skin, very long straight platinum-blonde hair draped over her left shoulder, full lips with soft pink-nude lipstick, round gold-rimmed sunglasses with amber mirrored lenses",
+    "clothing": "Heather-grey crew-neck t-shirt with a large black-and-grey vintage cruiser motorcycle graphic, light-wash blue skinny jeans with large ripped knees and frayed ankle hems, dark brown leather ankle boots with a metallic bronze side panel, gold wristwatch with a white dial on her left wrist",
+    "pose": "Sitting cross-legged on the grass facing the camera, head turned slightly to her left looking off-frame, right fingertips touching her lower lip thoughtfully, left hand resting near her ankle",
+    "environment": "Grassy lawn at sunset, large leafy hedge with dark green leaves and small pale blossoms behind her, blurred horizon with the low setting sun on the left",
+    "lighting": "Warm golden-hour backlight from the low sun at the left, glowing rim light on hair and shoulders, soft even warm fill on the face, orange-amber color cast",
+    "camera": "Vertical full-body portrait from slightly above eye level, 85mm lens look, wide aperture around f/1.8, shallow depth of field, creamy bokeh background, softly blurred foreground grass, sun flare in the lower-left background",
+    "style": "Cinematic lifestyle fashion photography, photorealistic, warm teal-and-orange-leaning color grade, polished influencer aesthetic, high detail",
+    "negative_prompt": "harsh flash, midday sun, cold blue tones, extra fingers, distorted hands, distorted face, deformed legs, blurry subject, cartoon, illustration, oversaturated, plastic skin, text, watermark, logo, extra limbs, cluttered background",
+    "aspect_ratio": "9:16"
+  }
+}
