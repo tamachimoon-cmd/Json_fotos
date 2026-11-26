@@ -1,0 +1,37 @@
+{
+  "filename": "817450ad9ac2fed699dcec992c50f170.jpg",
+  "original_filename": "817450ad9ac2fed699dcec992c50f170.jpg",
+  "suggested_name": "squat-low-angle-glass-skyscrapers-white-tee-jeans.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1Hj1T4pxqmYF3BQeiIUltvobenZo98Ikn",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-26T10:57:31Z",
+  "image_size": "735x1008",
+  "description": {
+    "subject": "Young woman, around early 20s, light-tan skin, long straight dark brown hair with a center part falling past her shoulders, natural minimal makeup, calm neutral expression looking directly into the camera.",
+    "pose": "She crouches low in a deep squat in the middle of a paved city street, knees bent and spread, her left knee raised toward the camera and her right leg folded lower. Both arms hang down between her knees with her hands relaxed and fingertips close to the asphalt.",
+    "clothing": {
+      "top": "Oversized white short-sleeved crew-neck t-shirt with a vintage-style graphic print on the chest showing two people and orange-red arched lettering.",
+      "bottom": "Medium-wash blue straight-leg denim jeans with a relaxed fit and the hems cuffed above the ankles.",
+      "footwear": "Chunky white leather lace-up sneakers with thick platform soles.",
+      "accessories": "Thin delicate necklace visible at the neckline of the t-shirt."
+    },
+    "setting": "Downtown business district surrounded by tall modern glass-curtain-wall skyscrapers that converge toward the sky, with a distant tower in the center background. Lower floors show stone-clad facades, storefront windows, a planter with a small shrub and street lamps along the sidewalks. The street surface is dark grey asphalt.",
+    "lighting": "Bright direct midday sunlight from the upper left with a visible sunburst reflected on the glass of the left building. Strong sharp shadows, including the subject's long dark shadow stretching across the asphalt in the foreground, with her face and body lit evenly by the clear sky.",
+    "composition": "Vertical, extreme low-angle ultra-wide (fisheye-like) shot taken from near ground level. The subject is centered, her white sneaker in the lower right is greatly enlarged by lens distortion, and the skyscrapers lean inward toward the top of the frame, creating dramatic perspective lines that lead to the blue sky.",
+    "style": "Urban street-fashion photography with a dynamic wide-angle perspective, crisp high detail and saturated, polished editing typical of Instagram and Pinterest fashion content.",
+    "colors": "Dominant deep and cyan blues from the glass towers and clear sky, contrasted with the bright white t-shirt and sneakers, medium-blue denim, dark brown hair, warm beige stone facades and dark grey asphalt.",
+    "mood": "Confident, cool and bold, with an energetic big-city vibe and a sense of scale and power from the towering buildings."
+  },
+  "prompt_json": {
+    "subject": "Young woman, early 20s, light-tan skin, long straight dark brown hair with a center part, natural minimal makeup, calm confident expression, looking directly at the camera",
+    "clothing": "Oversized white crew-neck t-shirt with a vintage graphic print of two people and orange-red arched lettering, medium-wash blue straight-leg jeans with cuffed hems, chunky white leather platform lace-up sneakers, thin delicate necklace",
+    "pose": "Crouching in a deep low squat in the middle of the street, left knee raised toward the camera, arms hanging relaxed between her knees, fingertips near the asphalt",
+    "environment": "Downtown business district street surrounded by towering modern glass skyscrapers converging toward a clear blue sky, distant tower in the center, stone-clad lower facades, storefronts, a small planter, dark grey asphalt road",
+    "lighting": "Bright direct midday sun from the upper left, sunburst reflection on the glass facade, crisp hard shadows, long dark shadow of the subject across the foreground asphalt",
+    "camera": "Extreme low-angle ultra-wide shot from ground level, 14mm fisheye-like lens look, strong perspective distortion, foreground sneaker enlarged, buildings leaning inward, deep depth of field, vertical framing",
+    "style": "Urban street-fashion photography, photorealistic, high detail, saturated cool blue color grade, polished Instagram/Pinterest aesthetic",
+    "negative_prompt": "overcast sky, night, warm sepia tones, blurry subject, distorted face, extra fingers, deformed hands, extra limbs, cartoon, illustration, plastic skin, crowds, cars blocking the subject, text, watermark, logo, cluttered foreground",
+    "aspect_ratio": "3:4"
+  }
+}
