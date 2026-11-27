@@ -1,0 +1,37 @@
+{
+  "filename": "a804b4f1455eaa0c798bdd42f1ac2af9.jpg",
+  "original_filename": "a804b4f1455eaa0c798bdd42f1ac2af9.jpg",
+  "suggested_name": "skate-regata-vermelha-alambrado.jpg",
+  "renamed_in_drive": false,
+  "drive_file_id": "1TV6uftF4nwUtOrOtI4bXONPpayfJI0YC",
+  "source": "Google Drive / Pinterest folder",
+  "extracted_at": "2026-11-27T10:57:20Z",
+  "image_size": "645x968",
+  "description": {
+    "subject": "Young adult woman with fair skin, straight shoulder-length brown hair with long side-swept bangs, brown eyes, natural makeup with pink lips, soft closed-mouth expression",
+    "pose": "Standing and leaning forward at the waist with her head tilted to the side, looking at the camera; both hands rest on the top of a vertically upright skateboard in front of her, her back and left side near a chain-link fence",
+    "clothing": {
+      "top": "Red sleeveless tank top with a small white star on the left chest",
+      "bottom": "Light-wash distressed denim cutoff shorts with frayed hems",
+      "footwear": "White canvas low-top sneakers with small red graphic details, worn and slightly dirty",
+      "accessories": "Wide black studded belt worn loosely at the hips, thin dark cord bracelet on the left wrist"
+    },
+    "setting": "Outdoors on a sunlit concrete/asphalt surface beside a tall galvanized chain-link fence with a metal post, a skateboard with a worn red graphic deck and black wheels with red hubs, autumn trees with yellow and orange foliage blurred in the background",
+    "lighting": "Bright natural daylight, low-angle sunlight from the side creating warm highlights and a clear shadow on the ground, soft fill on the face",
+    "composition": "Vertical full-body shot from head to feet, subject slightly right of center, fence running diagonally across the left half of the frame, skateboard leading the eye from her hands down to the ground, shallow depth of field on the background; small 'Ariel Rebel' watermark in the bottom-right corner",
+    "style": "Photorealistic outdoor lifestyle photo shoot, casual skater / 2000s youth aesthetic, sharp detail on the subject",
+    "colors": "Saturated red (top and skateboard), light denim blue, silver-grey fence, pale grey concrete, warm yellow and orange autumn foliage, white sneakers",
+    "mood": "Casual, playful, sunny, carefree"
+  },
+  "prompt_json": {
+    "subject": "young adult woman with fair skin, straight shoulder-length brown hair with long side-swept bangs, brown eyes, natural makeup, pink lips, soft expression looking at the camera",
+    "clothing": "red sleeveless tank top with a small white star on the chest, light-wash distressed denim cutoff shorts, wide black studded belt, thin dark cord bracelet, worn white canvas low-top sneakers with small red details",
+    "pose": "standing and leaning forward at the waist, head tilted, both hands resting on top of an upright skateboard held vertically in front of her",
+    "environment": "sunny outdoor concrete lot beside a tall galvanized chain-link fence and metal post, worn red graphic skateboard deck with black wheels and red hubs, blurred autumn trees with yellow and orange leaves in the background",
+    "lighting": "bright natural afternoon sunlight from the side, warm highlights, crisp shadow on the ground",
+    "camera": "50mm lens, eye-level angle, vertical full-body shot, sharp focus on the subject, softly blurred background, high resolution",
+    "style": "photorealistic casual skater lifestyle photography, 2000s youth aesthetic, natural skin texture",
+    "negative_prompt": "extra fingers, distorted hands, extra limbs, distorted face, blurry, cartoon, anime, oversaturated, plastic skin, heavy makeup, text, watermark, logo",
+    "aspect_ratio": "2:3"
+  }
+}
